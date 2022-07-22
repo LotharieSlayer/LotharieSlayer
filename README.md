@@ -64,6 +64,12 @@
 
 <br />
 
+#### 👀 :
+<img align="left" alt="Rust" width="26px" src="https://api.iconify.design/simple-icons:rust.svg?color=%238575FF&height=26" />
+<img align="left" alt="Redis" width="26px" src="https://api.iconify.design/simple-icons:redis.svg?color=%238575FF&height=26" />
+
+<br />
+
 ---
 
 <div align="center">
