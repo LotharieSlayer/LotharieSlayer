@@ -9,7 +9,7 @@
 
 [website]: https://francememes.com/
 [twitter]: https://twitter.com/lotharie_slayer
-[discord]: https://discord.com/francememes
+[discord]: https://discord.gg/francememes
 [twitch]: https://twitch.tv/lotharie
 
 
