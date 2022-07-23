@@ -42,7 +42,6 @@
 <br />
 
 #### Environnements :
-<img align="left" alt="Visual Studio Code" width="26px" src="https://api.iconify.design/simple-icons:visualstudiocode.svg?color=%238575FF&height=26" />
 <img align="left" alt="Git" width="26px" src="https://api.iconify.design/simple-icons:git.svg?color=%238575FF&height=26" />
 <img align="left" alt="GitHub" width="26px" src="https://api.iconify.design/simple-icons:github.svg?color=%238575FF&height=26" />
 <img align="left" alt="Android" width="26px" src="https://api.iconify.design/simple-icons:android.svg?color=%238575FF&height=26" />
@@ -54,6 +53,7 @@
 <br />
 
 #### Logiciels :
+<img align="left" alt="Visual Studio Code" width="26px" src="https://api.iconify.design/simple-icons:visualstudiocode.svg?color=%238575FF&height=26" />
 <img align="left" alt="Figma" width="26px" src="https://api.iconify.design/simple-icons:figma.svg?color=%238575FF&height=26" />
 <img align="left" alt="Ableton" width="26px" src="https://api.iconify.design/simple-icons:abletonlive.svg?color=%238575FF&height=26" />
 <img align="left" alt="Adobe After Effects" width="26px" src="https://api.iconify.design/simple-icons:adobeaftereffects.svg?color=%238575FF&height=26" />
