@@ -77,6 +77,6 @@
 </div>
 <div align="center">
   <a href="https://wakatime.com/@LotharieSlayer">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=LotharieSlayer&layout=compact&custom_title=Weekly%20Development%20Breakdown&hide_border=true&icon_color=fff&bg_color=30,6168FF,DA83FE&title_color=fff&text_color=fff" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=c41eb962-8221-42ac-90a4-8c9b3ff1d86d&layout=compact&custom_title=Weekly%20Development%20Breakdown&hide_border=true&icon_color=fff&bg_color=30,6168FF,DA83FE&title_color=fff&text_color=fff" />
   </a>
 </div>
