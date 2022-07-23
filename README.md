@@ -21,7 +21,7 @@
 
 <br />
 
-#### Langages :
+#### Langages et Frameworks :
 <img align="left" alt="HTML5" width="26px" src="https://api.iconify.design/simple-icons:html5.svg?color=%23AF80FD&height=26" />
 <img align="left" alt="CSS3" width="26px" src="https://api.iconify.design/simple-icons:css3.svg?color=%23AF80FD&height=26" />
 <img align="left" alt="JavaScript" width="26px" src="https://api.iconify.design/simple-icons:javascript.svg?color=%23AF80FD&height=26" />
