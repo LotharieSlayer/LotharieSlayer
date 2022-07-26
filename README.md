@@ -33,10 +33,10 @@
 <img align="left" alt="PostgreSQL" width="26px" src="https://api.iconify.design/simple-icons:postgresql.svg?color=%23AF80FD&height=26" />
 <img align="left" alt="MySQL" width="26px" src="https://api.iconify.design/simple-icons:mysql.svg?color=%23AF80FD&height=26" />
 <img align="left" alt="SQLite" width="26px" src="https://api.iconify.design/simple-icons:sqlite.svg?color=%23AF80FD&height=26" />
-<img align="left" alt="C" width="26px" src="https://api.iconify.design/simple-icons:c.svg?color=%23AF80FD&height=26" />
+<!-- <img align="left" alt="C" width="26px" src="https://api.iconify.design/simple-icons:c.svg?color=%23AF80FD&height=26" />
 <img align="left" alt="C#" width="26px" src="https://api.iconify.design/simple-icons:csharp.svg?color=%23AF80FD&height=26" />
 <img align="left" alt="PHP" width="26px" src="https://api.iconify.design/simple-icons:php.svg?color=%23AF80FD&height=26" />
-<img align="left" alt="Bash" width="26px" src="https://api.iconify.design/simple-icons:gnubash.svg?color=%23AF80FD&height=26" />
+<img align="left" alt="Bash" width="26px" src="https://api.iconify.design/simple-icons:gnubash.svg?color=%23AF80FD&height=26" /> -->
 
 
 <br />
