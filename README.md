@@ -49,6 +49,7 @@
 <img align="left" alt="Windows" width="26px" src="https://api.iconify.design/simple-icons:windows.svg?color=%238575FF&height=26" />
 <img align="left" alt="Linux" width="26px" src="https://api.iconify.design/simple-icons:linux.svg?color=%238575FF&height=26" />
 <img align="left" alt="NPM" width="26px" src="https://api.iconify.design/simple-icons:npm.svg?color=%238575FF&height=26" />
+<img align="left" alt="Discord" width="26px" src="https://api.iconify.design/simple-icons:discord.svg?color=%238575FF&height=26" />
 
 <br />
 
