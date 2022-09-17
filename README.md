@@ -56,9 +56,9 @@
 #### Langages et Frameworks :
 [<img align="left" alt="HTML5" width="26px" src="https://api.iconify.design/simple-icons:html5.svg?color=%23AF80FD&height=26" />][html]
 [<img align="left" alt="CSS3" width="26px" src="https://api.iconify.design/simple-icons:css3.svg?color=%23AF80FD&height=26" />][css]
-[<img align="left" alt="Sass" width="26px" src="https://api.iconify.design/simple-icons:sass.svg?color=%23AF80FD&height=26" />][sass]
+<!-- [<img align="left" alt="Sass" width="26px" src="https://api.iconify.design/simple-icons:sass.svg?color=%23AF80FD&height=26" />][sass] -->
 [<img align="left" alt="JavaScript" width="26px" src="https://api.iconify.design/simple-icons:javascript.svg?color=%23AF80FD&height=26" />][js]
-[<img align="left" alt="Node.js" width="26px" src="https://api.iconify.design/simple-icons:node-dot-js.svg?color=%23AF80FD&height=26" />][nodejs]
+<!-- [<img align="left" alt="Node.js" width="26px" src="https://api.iconify.design/simple-icons:node-dot-js.svg?color=%23AF80FD&height=26" />][nodejs] -->
 [<img align="left" alt="React" width="26px" src="https://api.iconify.design/simple-icons:react.svg?color=%23AF80FD&height=26" />][react]
 [<img align="left" alt="Next" width="26px" src="https://api.iconify.design/simple-icons:nextdotjs.svg?color=%23AF80FD&height=26" />][next]
 [<img align="left" alt="Flutter" width="26px" src="https://api.iconify.design/simple-icons:flutter.svg?color=%23AF80FD&height=26" />][flutter]
@@ -66,10 +66,10 @@
 [<img align="left" alt="PostgreSQL" width="26px" src="https://api.iconify.design/simple-icons:postgresql.svg?color=%23AF80FD&height=26" />][psql]
 [<img align="left" alt="MySQL" width="26px" src="https://api.iconify.design/simple-icons:mysql.svg?color=%23AF80FD&height=26" />][mysql]
 [<img align="left" alt="SQLite" width="26px" src="https://api.iconify.design/simple-icons:sqlite.svg?color=%23AF80FD&height=26" />][sqlite]
-<!-- <img align="left" alt="C" width="26px" src="https://api.iconify.design/simple-icons:c.svg?color=%23AF80FD&height=26" />
-<img align="left" alt="C#" width="26px" src="https://api.iconify.design/simple-icons:csharp.svg?color=%23AF80FD&height=26" />
-<img align="left" alt="PHP" width="26px" src="https://api.iconify.design/simple-icons:php.svg?color=%23AF80FD&height=26" />
-<img align="left" alt="Bash" width="26px" src="https://api.iconify.design/simple-icons:gnubash.svg?color=%23AF80FD&height=26" /> -->
+<img align="left" alt="Bash" width="26px" src="https://api.iconify.design/simple-icons:gnubash.svg?color=%23AF80FD&height=26" />
+<img align="left" alt="C" width="26px" src="https://api.iconify.design/simple-icons:c.svg?color=%23AF80FD&height=26" />
+<!-- <img align="left" alt="C#" width="26px" src="https://api.iconify.design/simple-icons:csharp.svg?color=%23AF80FD&height=26" />
+<img align="left" alt="PHP" width="26px" src="https://api.iconify.design/simple-icons:php.svg?color=%23AF80FD&height=26" /> -->
 
 
 <br />
