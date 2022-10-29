@@ -24,6 +24,9 @@
 [psql]: https://www.postgresql.org/
 [mysql]: https://www.mysql.com/
 [sqlite]: https://www.sqlite.org/index.html
+[bash]: https://en.wikipedia.org/wiki/Bourne-Again_shell
+[clang]: https://en.wikipedia.org/wiki/C_(programming_language)
+
 [git]: https://git-scm.com/
 [github]: https://github.com/
 [android]: https://developer.android.com/
@@ -66,8 +69,8 @@
 [<img align="left" alt="PostgreSQL" width="26px" src="https://api.iconify.design/simple-icons:postgresql.svg?color=%23AF80FD&height=26" />][psql]
 [<img align="left" alt="MySQL" width="26px" src="https://api.iconify.design/simple-icons:mysql.svg?color=%23AF80FD&height=26" />][mysql]
 [<img align="left" alt="SQLite" width="26px" src="https://api.iconify.design/simple-icons:sqlite.svg?color=%23AF80FD&height=26" />][sqlite]
-<img align="left" alt="Bash" width="26px" src="https://api.iconify.design/simple-icons:gnubash.svg?color=%23AF80FD&height=26" />
-<img align="left" alt="C" width="26px" src="https://api.iconify.design/simple-icons:c.svg?color=%23AF80FD&height=26" />
+[<img align="left" alt="Bash" width="26px" src="https://api.iconify.design/simple-icons:gnubash.svg?color=%23AF80FD&height=26" />][bash]
+[<img align="left" alt="C Language" width="26px" src="https://api.iconify.design/simple-icons:c.svg?color=%23AF80FD&height=26" />][clang]
 <!-- <img align="left" alt="C#" width="26px" src="https://api.iconify.design/simple-icons:csharp.svg?color=%23AF80FD&height=26" />
 <img align="left" alt="PHP" width="26px" src="https://api.iconify.design/simple-icons:php.svg?color=%23AF80FD&height=26" /> -->
 
