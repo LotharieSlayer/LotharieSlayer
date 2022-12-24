@@ -50,9 +50,10 @@
 [redis]: https://redis.io/
 [mongodb]: https://www.mongodb.com
 [csharp]: https://docs.microsoft.com/dotnet/csharp/tour-of-csharp/
+[ts]: https://www.typescriptlang.org/
 
 
-### Mes réseaux :
+### My networks :
 [<img align="left" alt="francememes.com" width="32px" src="https://api.iconify.design/bi:globe.svg?color=%23DA83FE&height=32" />][website]
 [<img align="left" alt="Twitter" width="32px" src="https://api.iconify.design/simple-icons:twitter.svg?color=%23DA83FE&height=32" />][twitter]
 [<img align="left" alt="Discord" width="32px" src="https://api.iconify.design/simple-icons:discord.svg?color=%23DA83FE&height=32" />][discord]
@@ -60,7 +61,7 @@
 
 <br />
 
-#### Langages et Frameworks :
+#### Languages & Syntax :
 [<img align="left" alt="HTML5" width="26px" src="https://api.iconify.design/simple-icons:html5.svg?color=%23AF80FD&height=26" />][html]
 [<img align="left" alt="CSS3" width="26px" src="https://api.iconify.design/simple-icons:css3.svg?color=%23AF80FD&height=26" />][css]
 <!-- [<img align="left" alt="Sass" width="26px" src="https://api.iconify.design/simple-icons:sass.svg?color=%23AF80FD&height=26" />][sass] -->
@@ -78,7 +79,7 @@
 
 <br />
 
-#### Environnements :
+#### Environments :
 [<img align="left" alt="Git" width="26px" src="https://api.iconify.design/simple-icons:git.svg?color=%238575FF&height=26" />][git]
 [<img align="left" alt="SQL Databases (PostgreSQL, MySQL)" width="26px" src="https://api.iconify.design/carbon:sql.svg?color=%23AF80FD&height=26" />][sql]
 [<img align="left" alt="NoSQL Databases (IsarDB, Enmap)" width="26px" src="https://api.iconify.design/material-symbols:key.svg?color=%23AF80FD&height=26" />][nosql]
@@ -93,7 +94,7 @@
 
 <br />
 
-#### Logiciels :
+#### Tools :
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://api.iconify.design/simple-icons:visualstudiocode.svg?color=%238575FF&height=26" />][vscode]
 [<img align="left" alt="Figma" width="26px" src="https://api.iconify.design/simple-icons:figma.svg?color=%238575FF&height=26" />][figma]
 [<img align="left" alt="Ableton" width="26px" src="https://api.iconify.design/simple-icons:abletonlive.svg?color=%238575FF&height=26" />][ableton]
@@ -110,6 +111,7 @@
 [<img align="left" alt="Redis" width="26px" src="https://api.iconify.design/simple-icons:redis.svg?color=%238575FF&height=26" />][redis]
 [<img align="left" alt="MongoDB" width="26px" src="https://api.iconify.design/simple-icons:mongodb.svg?color=%238575FF&height=26" />][mongodb]
 [<img align="left" alt="C#" width="26px" src="https://api.iconify.design/simple-icons:csharp.svg?color=%238575FF&height=26" />][csharp]
+[<img align="left" alt="TypeScript" width="26px" src="https://api.iconify.design/akar-icons:typescript-fill.svg?color=%238575FF&height=26" />][ts]
 
 <br />
 
