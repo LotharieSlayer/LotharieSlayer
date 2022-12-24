@@ -21,13 +21,12 @@
 [next]: https://nextjs.org/
 [flutter]: https://flutter.dev/
 [java]: https://www.java.com/
-[psql]: https://www.postgresql.org/
-[mysql]: https://www.mysql.com/
-[sqlite]: https://www.sqlite.org/index.html
 [bash]: https://en.wikipedia.org/wiki/Bourne-Again_shell
 [clang]: https://en.wikipedia.org/wiki/C_(programming_language)
 
 [git]: https://git-scm.com/
+[sql]: https://www.postgresql.org/
+[nosql]: https://isar.dev/
 [github]: https://github.com/
 [android]: https://developer.android.com/
 [ios]: https://www.apple.com/fr/ios/
@@ -35,6 +34,9 @@
 [linux]: https://www.kernel.org/
 [npm]: https://www.npmjs.com/
 [discordapp]: https://discord.com/
+[docker]: https://docker.com/
+
+
 [vscode]: https://code.visualstudio.com/
 [figma]: https://www.figma.com/
 [ableton]: https://www.ableton.com/
@@ -43,8 +45,10 @@
 [adobe_ps]: https://www.adobe.com/products/photoshop.html
 [adobe_pp]: https://www.adobe.com/products/premiere.html
 [obs]: https://obsproject.com/
+
 [rust]: https://www.rust-lang.org/
 [redis]: https://redis.io/
+[mongodb]: https://www.mongodb.com
 [csharp]: https://docs.microsoft.com/dotnet/csharp/tour-of-csharp/
 
 
@@ -66,9 +70,6 @@
 [<img align="left" alt="Next" width="26px" src="https://api.iconify.design/simple-icons:nextdotjs.svg?color=%23AF80FD&height=26" />][next]
 [<img align="left" alt="Flutter" width="26px" src="https://api.iconify.design/simple-icons:flutter.svg?color=%23AF80FD&height=26" />][flutter]
 [<img align="left" alt="Java" width="26px" src="https://api.iconify.design/cib:java.svg?color=%23AF80FD&height=26" />][java]
-[<img align="left" alt="PostgreSQL" width="26px" src="https://api.iconify.design/simple-icons:postgresql.svg?color=%23AF80FD&height=26" />][psql]
-[<img align="left" alt="MySQL" width="26px" src="https://api.iconify.design/simple-icons:mysql.svg?color=%23AF80FD&height=26" />][mysql]
-[<img align="left" alt="SQLite" width="26px" src="https://api.iconify.design/simple-icons:sqlite.svg?color=%23AF80FD&height=26" />][sqlite]
 [<img align="left" alt="Bash" width="26px" src="https://api.iconify.design/simple-icons:gnubash.svg?color=%23AF80FD&height=26" />][bash]
 [<img align="left" alt="C Language" width="26px" src="https://api.iconify.design/simple-icons:c.svg?color=%23AF80FD&height=26" />][clang]
 <!-- <img align="left" alt="C#" width="26px" src="https://api.iconify.design/simple-icons:csharp.svg?color=%23AF80FD&height=26" />
@@ -79,6 +80,8 @@
 
 #### Environnements :
 [<img align="left" alt="Git" width="26px" src="https://api.iconify.design/simple-icons:git.svg?color=%238575FF&height=26" />][git]
+[<img align="left" alt="SQL Databases (PostgreSQL, MySQL)" width="26px" src="https://api.iconify.design/carbon:sql.svg?color=%23AF80FD&height=26" />][sql]
+[<img align="left" alt="NoSQL Databases (IsarDB, Enmap)" width="26px" src="https://api.iconify.design/material-symbols:key.svg?color=%23AF80FD&height=26" />][nosql]
 [<img align="left" alt="GitHub" width="26px" src="https://api.iconify.design/simple-icons:github.svg?color=%238575FF&height=26" />][github]
 [<img align="left" alt="Android" width="26px" src="https://api.iconify.design/simple-icons:android.svg?color=%238575FF&height=26" />][android]
 [<img align="left" alt="iOS" width="26px" src="https://api.iconify.design/simple-icons:ios.svg?color=%238575FF&height=26" />][ios]
@@ -86,6 +89,7 @@
 [<img align="left" alt="Linux" width="26px" src="https://api.iconify.design/simple-icons:linux.svg?color=%238575FF&height=26" />][linux]
 [<img align="left" alt="NPM" width="26px" src="https://api.iconify.design/simple-icons:npm.svg?color=%238575FF&height=26" />][npm]
 [<img align="left" alt="Discord" width="26px" src="https://api.iconify.design/simple-icons:discord.svg?color=%238575FF&height=26" />][discordapp]
+[<img align="left" alt="Docker" width="26px" src="https://api.iconify.design/simple-icons:docker.svg?color=%238575FF&height=26" />][docker]
 
 <br />
 
@@ -104,6 +108,7 @@
 #### 👀 :
 [<img align="left" alt="Rust" width="26px" src="https://api.iconify.design/simple-icons:rust.svg?color=%238575FF&height=26" />][rust]
 [<img align="left" alt="Redis" width="26px" src="https://api.iconify.design/simple-icons:redis.svg?color=%238575FF&height=26" />][redis]
+[<img align="left" alt="MongoDB" width="26px" src="https://api.iconify.design/simple-icons:mongodb.svg?color=%238575FF&height=26" />][mongodb]
 [<img align="left" alt="C#" width="26px" src="https://api.iconify.design/simple-icons:csharp.svg?color=%238575FF&height=26" />][csharp]
 
 <br />
