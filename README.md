@@ -16,6 +16,7 @@
 [css]: https://developer.mozilla.org/fr/docs/Web/CSS
 [sass]: https://sass-lang.com/
 [js]: https://developer.mozilla.org/fr/docs/Web/JavaScript
+[ts]: https://www.typescriptlang.org/
 [nodejs]: https://nodejs.org/
 [react]: https://reactjs.org
 [next]: https://nextjs.org/
@@ -35,7 +36,7 @@
 [npm]: https://www.npmjs.com/
 [discordapp]: https://discord.com/
 [docker]: https://docker.com/
-
+[mongodb]: https://www.mongodb.com
 
 [vscode]: https://code.visualstudio.com/
 [figma]: https://www.figma.com/
@@ -48,9 +49,9 @@
 
 [rust]: https://www.rust-lang.org/
 [redis]: https://redis.io/
-[mongodb]: https://www.mongodb.com
 [csharp]: https://docs.microsoft.com/dotnet/csharp/tour-of-csharp/
-[ts]: https://www.typescriptlang.org/
+[godot]: https://godotengine.org/
+[unity]: https://unity.com/
 
 
 ### My networks :
@@ -66,6 +67,7 @@
 [<img align="left" alt="CSS3" width="26px" src="https://api.iconify.design/simple-icons:css3.svg?color=%23AF80FD&height=26" />][css]
 <!-- [<img align="left" alt="Sass" width="26px" src="https://api.iconify.design/simple-icons:sass.svg?color=%23AF80FD&height=26" />][sass] -->
 [<img align="left" alt="JavaScript" width="26px" src="https://api.iconify.design/simple-icons:javascript.svg?color=%23AF80FD&height=26" />][js]
+[<img align="left" alt="TypeScript" width="26px" src="https://api.iconify.design/akar-icons:typescript-fill.svg?color=%238575FF&height=26" />][ts]
 <!-- [<img align="left" alt="Node.js" width="26px" src="https://api.iconify.design/simple-icons:node-dot-js.svg?color=%23AF80FD&height=26" />][nodejs] -->
 [<img align="left" alt="React" width="26px" src="https://api.iconify.design/simple-icons:react.svg?color=%23AF80FD&height=26" />][react]
 [<img align="left" alt="Next" width="26px" src="https://api.iconify.design/simple-icons:nextdotjs.svg?color=%23AF80FD&height=26" />][next]
@@ -91,6 +93,7 @@
 [<img align="left" alt="NPM" width="26px" src="https://api.iconify.design/simple-icons:npm.svg?color=%238575FF&height=26" />][npm]
 [<img align="left" alt="Discord" width="26px" src="https://api.iconify.design/simple-icons:discord.svg?color=%238575FF&height=26" />][discordapp]
 [<img align="left" alt="Docker" width="26px" src="https://api.iconify.design/simple-icons:docker.svg?color=%238575FF&height=26" />][docker]
+[<img align="left" alt="MongoDB" width="26px" src="https://api.iconify.design/simple-icons:mongodb.svg?color=%238575FF&height=26" />][mongodb]
 
 <br />
 
@@ -109,10 +112,9 @@
 #### 👀 :
 [<img align="left" alt="Rust" width="26px" src="https://api.iconify.design/simple-icons:rust.svg?color=%238575FF&height=26" />][rust]
 [<img align="left" alt="Redis" width="26px" src="https://api.iconify.design/simple-icons:redis.svg?color=%238575FF&height=26" />][redis]
-[<img align="left" alt="MongoDB" width="26px" src="https://api.iconify.design/simple-icons:mongodb.svg?color=%238575FF&height=26" />][mongodb]
 [<img align="left" alt="C#" width="26px" src="https://api.iconify.design/simple-icons:csharp.svg?color=%238575FF&height=26" />][csharp]
-[<img align="left" alt="TypeScript" width="26px" src="https://api.iconify.design/akar-icons:typescript-fill.svg?color=%238575FF&height=26" />][ts]
-
+[<img align="left" alt="MongoDB" width="26px" src="https://api.iconify.design/cib:godot-engine.svg?color=%238575FF&height=26" />][godot]
+[<img align="left" alt="MongoDB" width="26px" src="https://api.iconify.design/simple-icons:unity.svg?color=%238575FF&height=26" />][unity]
 <br />
 
 ---
