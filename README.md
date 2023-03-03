@@ -67,7 +67,7 @@
 [<img align="left" alt="CSS3" width="26px" src="https://api.iconify.design/simple-icons:css3.svg?color=%23AF80FD&height=26" />][css]
 <!-- [<img align="left" alt="Sass" width="26px" src="https://api.iconify.design/simple-icons:sass.svg?color=%23AF80FD&height=26" />][sass] -->
 [<img align="left" alt="JavaScript" width="26px" src="https://api.iconify.design/simple-icons:javascript.svg?color=%23AF80FD&height=26" />][js]
-[<img align="left" alt="TypeScript" width="26px" src="https://api.iconify.design/akar-icons:typescript-fill.svg?color=%238575FF&height=26" />][ts]
+[<img align="left" alt="TypeScript" width="26px" src="https://api.iconify.design/akar-icons:typescript-fill.svg?color=%23AF80FD&height=26" />][ts]
 <!-- [<img align="left" alt="Node.js" width="26px" src="https://api.iconify.design/simple-icons:node-dot-js.svg?color=%23AF80FD&height=26" />][nodejs] -->
 [<img align="left" alt="React" width="26px" src="https://api.iconify.design/simple-icons:react.svg?color=%23AF80FD&height=26" />][react]
 [<img align="left" alt="Next" width="26px" src="https://api.iconify.design/simple-icons:nextdotjs.svg?color=%23AF80FD&height=26" />][next]
