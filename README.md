@@ -27,7 +27,7 @@
 
 [git]: https://git-scm.com/
 [sql]: https://www.postgresql.org/
-[nosql]: https://isar.dev/
+[mongodb]: https://www.mongodb.com
 [github]: https://github.com/
 [android]: https://developer.android.com/
 [ios]: https://www.apple.com/fr/ios/
@@ -36,7 +36,6 @@
 [npm]: https://www.npmjs.com/
 [discordapp]: https://discord.com/
 [docker]: https://docker.com/
-[mongodb]: https://www.mongodb.com
 
 [vscode]: https://code.visualstudio.com/
 [figma]: https://www.figma.com/
@@ -84,7 +83,7 @@
 #### Environments :
 [<img align="left" alt="Git" width="26px" src="https://api.iconify.design/simple-icons:git.svg?color=%238575FF&height=26" />][git]
 [<img align="left" alt="SQL Databases (PostgreSQL, MySQL)" width="26px" src="https://api.iconify.design/carbon:sql.svg?color=%23AF80FD&height=26" />][sql]
-[<img align="left" alt="NoSQL Databases (IsarDB, Enmap)" width="26px" src="https://api.iconify.design/material-symbols:key.svg?color=%23AF80FD&height=26" />][nosql]
+[<img align="left" alt="MongoDB" width="26px" src="https://api.iconify.design/simple-icons:mongodb.svg?color=%238575FF&height=26" />][mongodb]
 [<img align="left" alt="GitHub" width="26px" src="https://api.iconify.design/simple-icons:github.svg?color=%238575FF&height=26" />][github]
 [<img align="left" alt="Android" width="26px" src="https://api.iconify.design/simple-icons:android.svg?color=%238575FF&height=26" />][android]
 [<img align="left" alt="iOS" width="26px" src="https://api.iconify.design/simple-icons:ios.svg?color=%238575FF&height=26" />][ios]
@@ -93,7 +92,6 @@
 [<img align="left" alt="NPM" width="26px" src="https://api.iconify.design/simple-icons:npm.svg?color=%238575FF&height=26" />][npm]
 [<img align="left" alt="Discord" width="26px" src="https://api.iconify.design/simple-icons:discord.svg?color=%238575FF&height=26" />][discordapp]
 [<img align="left" alt="Docker" width="26px" src="https://api.iconify.design/simple-icons:docker.svg?color=%238575FF&height=26" />][docker]
-[<img align="left" alt="MongoDB" width="26px" src="https://api.iconify.design/simple-icons:mongodb.svg?color=%238575FF&height=26" />][mongodb]
 
 <br />
 
