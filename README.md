@@ -13,33 +13,6 @@
 [discord]: https://discord.gg/francememes
 [twitch]: https://twitch.tv/lotharie
 
-[git]: https://git-scm.com/
-[sql]: https://www.postgresql.org/
-[mongodb]: https://www.mongodb.com
-[github]: https://github.com/
-[android]: https://developer.android.com/
-[ios]: https://www.apple.com/fr/ios/
-[windows]: https://microsoft.com/windows
-[linux]: https://www.kernel.org/
-[npm]: https://www.npmjs.com/
-[discordapp]: https://discord.com/
-[docker]: https://docker.com/
-
-[vscode]: https://code.visualstudio.com/
-[figma]: https://www.figma.com/
-[ableton]: https://www.ableton.com/
-[adobe_ae]: https://www.adobe.com/products/aftereffects.html
-[adobe_il]: https://www.adobe.com/products/illustrator.html
-[adobe_ps]: https://www.adobe.com/products/photoshop.html
-[adobe_pp]: https://www.adobe.com/products/premiere.html
-[obs]: https://obsproject.com/
-
-[rust]: https://www.rust-lang.org/
-[redis]: https://redis.io/
-[godot]: https://godotengine.org/
-[bun]: https://bun.sh/
-
-
 ### My networks :
 [<img align="left" alt="francememes.com" width="32px" src="https://api.iconify.design/bi:globe.svg?color=%23DA83FE&height=32" />][website]
 [<img align="left" alt="Twitter" width="32px" src="https://api.iconify.design/simple-icons:twitter.svg?color=%23DA83FE&height=32" />][twitter]
@@ -59,7 +32,7 @@
 			<th colspan="1"><b>Front-end</b></th>
 			<th colspan="1"><b>Database</b></th>
 			<th colspan="2"><b>Creative</b></th>
-			<th colspan="2"><b>Environments & Tools</b></th>
+			<th colspan="3"><b>Environments & Tools</b></th>
 			<th colspan="1"><b>👀</b></th>
 		</tr>
 	</thead>
@@ -74,6 +47,7 @@
 			<td align="center"><a href=https://www.ableton.com/ title="Ableton"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:abletonlive.svg?color=%23AF80FD&height=26" /></a></td>
 			<td align="center"><a href=https://developer.android.com/ title="Android"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:android.svg?color=%23AF80FD&height=26" /></a></td>
 			<td align="center"><a href=https://en.wikipedia.org/wiki/Bourne-Again_shell title="Bash"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:gnubash.svg?color=%23AF80FD&height=26" /></a></td>
+			<td align="center"><a href=https://visualstudio.microsoft.com/ title="Visual Studio"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:visualstudio.svg?color=%23AF80FD&height=26" /></a></td>
 			<td align="center"><a href=https://www.rust-lang.org/ title="Rust"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:rust.svg?color=%23AF80FD&height=26" /></a></td>
 		</tr>
 		<tr>
@@ -86,6 +60,7 @@
 			<td align="center"><a href=https://www.adobe.com/products/illustrator.html title="Adobe Illustrator"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:adobeillustrator.svg?color=%23AF80FD&height=26" /></a></td>
 			<td align="center"><a href=https://www.apple.com/fr/ios/ title="iOS"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:ios.svg?color=%23AF80FD&height=26" /></a></td>
 			<td align="center"><a href=https://git-scm.com/ title="Git"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:git.svg?color=%23AF80FD&height=26" /></a></td>
+			<td align="center"><a href=https://visualstudio.microsoft.com/ title="Visual Studio"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:visualstudio.svg?color=%23AF80FD&height=26" /></a></td>
 			<td align="center"><a href=https://www.apple.com/swift/ title="Swift"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:swift.svg?color=%23AF80FD&height=26" /></a></td>
 		</tr>
 		<tr>
@@ -98,6 +73,7 @@
 			<td align="center"><a href=https://www.adobe.com/products/photoshop.html title="Adobe Photoshop"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:adobephotoshop.svg?color=%23AF80FD&height=26" /></a></td>
 			<td align="center"><a href=https://microsoft.com/windows title="Windows"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:windows.svg?color=%23AF80FD&height=26" /></a></td>
 			<td align="center"><a href=https://docker.com/ title="Docker"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:docker.svg?color=%23AF80FD&height=26" /></a></td>
+			<td align="center"><a href=https://discord.com/developers/docs/intro title="Discord"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:discord.svg?color=%23AF80FD&height=26" /></a></td>
 			<td align="center"><a href=https://redis.io/ title="Redis"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:redis.svg?color=%23AF80FD&height=26" /></a></td>
 		</tr>
 		<tr>
@@ -110,6 +86,7 @@
 			<td align="center"></td>
 			<td align="center"><a href=https://www.apple.com/fr/macos/ title="MacOS"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:macos.svg?color=%23AF80FD&height=26" /></a></td>
 			<td align="center"><a href=https://www.npmjs.com/ title="NPM"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:npm.svg?color=%23AF80FD&height=26" /></a></td>
+			<td align="center"><a href=https://www.twitch.tv/ title="Twitch"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:twitch.svg?color=%23AF80FD&height=26" /></a></td>
 			<td align="center"><a href=https://godotengine.org/ title="Godot"><img align="center" width="26px" src="https://api.iconify.design/cib:godot-engine.svg?color=%23AF80FD&height=26" /></a></td>
 		</tr>
 		<tr>
@@ -121,19 +98,9 @@
 			<td align="center"></td>
 			<td align="center"></td>
 			<td align="center"><a href=https://www.kernel.org/ title="Linux"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:linux.svg?color=%23AF80FD&height=26" /></a></td>
-			<td align="center"><a href=https://discord.com/developers/docs/intro title="Discord"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:discord.svg?color=%23AF80FD&height=26" /></a></td>
+			<td align="center"><a href=https://www.gnu.org/software/make/ title="GNU Make"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:gnu.svg?color=%23AF80FD&height=26" /></a></td>
+			<td align="center"></td>
 			<td align="center"><a href=https://bun.sh/ title="Bun"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:bun.svg?color=%23AF80FD&height=26" /></a></td>
-		</tr>
-		<tr>
-			<td align="center"></td>
-			<td align="center"></td>
-			<td align="center"></td>
-			<td align="center"></td>
-			<td align="center"></td>
-			<td align="center"></td>
-			<td align="center"></td>
-			<td align="center"><a href=https://code.visualstudio.com/ title="Visual Studio Code"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:visualstudiocode.svg?color=%23AF80FD&height=26" /></a></td>
-			<td align="center"><a href=https://visualstudio.microsoft.com/ title="Visual Studio"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:visualstudio.svg?color=%23AF80FD&height=26" /></a></td>
 		</tr>
 	</tbody>
 </table>
