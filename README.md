@@ -12,18 +12,6 @@
 [twitter]: https://twitter.com/lotharie_slayer
 [discord]: https://discord.gg/francememes
 [twitch]: https://twitch.tv/lotharie
-[html]: https://developer.mozilla.org/fr/docs/Web/HTML
-[css]: https://developer.mozilla.org/fr/docs/Web/CSS
-[sass]: https://sass-lang.com/
-[js]: https://developer.mozilla.org/fr/docs/Web/JavaScript
-[ts]: https://www.typescriptlang.org/
-[nodejs]: https://nodejs.org/
-[react]: https://reactjs.org
-[next]: https://nextjs.org/
-[flutter]: https://flutter.dev/
-[java]: https://www.java.com/
-[bash]: https://en.wikipedia.org/wiki/Bourne-Again_shell
-[clang]: https://en.wikipedia.org/wiki/C_(programming_language)
 
 [git]: https://git-scm.com/
 [sql]: https://www.postgresql.org/
@@ -48,9 +36,7 @@
 
 [rust]: https://www.rust-lang.org/
 [redis]: https://redis.io/
-[csharp]: https://docs.microsoft.com/dotnet/csharp/tour-of-csharp/
 [godot]: https://godotengine.org/
-[unity]: https://unity.com/
 [bun]: https://bun.sh/
 
 
@@ -62,60 +48,96 @@
 
 <br />
 
-#### Languages & Syntax :
-[<img align="left" alt="HTML5" width="26px" src="https://api.iconify.design/simple-icons:html5.svg?color=%23AF80FD&height=26" />][html]
-[<img align="left" alt="CSS3" width="26px" src="https://api.iconify.design/simple-icons:css3.svg?color=%23AF80FD&height=26" />][css]
-<!-- [<img align="left" alt="Sass" width="26px" src="https://api.iconify.design/simple-icons:sass.svg?color=%23AF80FD&height=26" />][sass] -->
-[<img align="left" alt="JavaScript" width="26px" src="https://api.iconify.design/simple-icons:javascript.svg?color=%23AF80FD&height=26" />][js]
-[<img align="left" alt="TypeScript" width="26px" src="https://api.iconify.design/akar-icons:typescript-fill.svg?color=%23AF80FD&height=26" />][ts]
-<!-- [<img align="left" alt="Node.js" width="26px" src="https://api.iconify.design/simple-icons:node-dot-js.svg?color=%23AF80FD&height=26" />][nodejs] -->
-[<img align="left" alt="React" width="26px" src="https://api.iconify.design/simple-icons:react.svg?color=%23AF80FD&height=26" />][react]
-[<img align="left" alt="Next" width="26px" src="https://api.iconify.design/simple-icons:nextdotjs.svg?color=%23AF80FD&height=26" />][next]
-[<img align="left" alt="Flutter" width="26px" src="https://api.iconify.design/simple-icons:flutter.svg?color=%23AF80FD&height=26" />][flutter]
-[<img align="left" alt="Java" width="26px" src="https://api.iconify.design/cib:java.svg?color=%23AF80FD&height=26" />][java]
-[<img align="left" alt="Bash" width="26px" src="https://api.iconify.design/simple-icons:gnubash.svg?color=%23AF80FD&height=26" />][bash]
-[<img align="left" alt="C Language" width="26px" src="https://api.iconify.design/simple-icons:c.svg?color=%23AF80FD&height=26" />][clang]
-<!-- <img align="left" alt="C#" width="26px" src="https://api.iconify.design/simple-icons:csharp.svg?color=%23AF80FD&height=26" />
-<img align="left" alt="PHP" width="26px" src="https://api.iconify.design/simple-icons:php.svg?color=%23AF80FD&height=26" /> -->
+### My stack :
 
+<table align="center">
+	<thead>
+		<tr>
+			<th colspan="2"><b>Software Development</b></th>
+			<th colspan="1"><b>Computer Graphics</b></th>
+			<th colspan="1"><b>Front-end</b></th>
+			<th colspan="1"><b>Database</b></th>
+			<th colspan="2"><b>Creative</b></th>
+			<th colspan="2"><b>Environments & Tools</b></th>
+			<th colspan="1"><b>👀</b></th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td align="center"><a href=https://developer.mozilla.org/fr/docs/Web/JavaScript><img align="center" alt="Javascript" width="26px" src="https://api.iconify.design/simple-icons:javascript.svg?color=%23AF80FD&height=26" /></a></td>
+			<td align="center"><a title="Typescript" href=https://www.typescriptlang.org/><img align="center" width="26px" src="https://api.iconify.design/akar-icons:typescript-fill.svg?color=%23AF80FD&height=26" /></a></td>
+			<td align="center"><a href=https://flutter.dev/ title="Flutter"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:flutter.svg?color=%23AF80FD&height=26" /></a></td>
+			<td align="center"><a title="HTML5" href=https://developer.mozilla.org/fr/docs/Web/HTML><img align="center" width="26px" src="https://api.iconify.design/simple-icons:html5.svg?color=%23AF80FD&height=26" /></a></td>
+			<td align="center"><a href=https://www.mongodb.com title="MongoDB"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:mongodb.svg?color=%23AF80FD&height=26" /></a></td>
+			<td align="center"><a href=https://www.figma.com/ title="Figma"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:figma.svg?color=%23AF80FD&height=26" /></a></td>
+			<td align="center"><a href=https://www.ableton.com/ title="Ableton"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:abletonlive.svg?color=%23AF80FD&height=26" /></a></td>
+			<td align="center"><a href=https://developer.android.com/ title="Android"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:android.svg?color=%23AF80FD&height=26" /></a></td>
+			<td align="center"><a href=https://en.wikipedia.org/wiki/Bourne-Again_shell title="Bash"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:gnubash.svg?color=%23AF80FD&height=26" /></a></td>
+			<td align="center"><a href=https://www.rust-lang.org/ title="Rust"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:rust.svg?color=%23AF80FD&height=26" /></a></td>
+		</tr>
+		<tr>
+			<td align="center"><a href=https://nodejs.org/ title="NodeJS"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:node-dot-js.svg?color=%23AF80FD&height=26" /></a></td>
+			<td align="center"><a href=https://flutter.dev/ title="Dart"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:dart.svg?color=%23AF80FD&height=26" /></a></td>
+			<td align="center"><a href=https://openjfx.io/ title="JavaFX"><img align="center" width="26px" src="https://api.iconify.design/iconoir:fx-tag.svg?color=%23AF80FD&height=26" /></a></td>
+			<td align="center"><a title="CSS3" href=https://developer.mozilla.org/fr/docs/Web/CSS><img align="center" width="26px" src="https://api.iconify.design/simple-icons:css3.svg?color=%23AF80FD&height=26" /></a></td>
+			<td align="center"><a href=https://isar.dev/fr/ title="Isar"><img align="center" width="26px" src="https://api.iconify.design/fluent:water-24-filled.svg?color=%23AF80FD&height=26"" /></a></td>
+			<td align="center"><a href=https://www.adobe.com/products/aftereffects.html title="Adobe After Effects"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:adobeaftereffects.svg?color=%23AF80FD&height=26" /></a></td>
+			<td align="center"><a href=https://www.adobe.com/products/illustrator.html title="Adobe Illustrator"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:adobeillustrator.svg?color=%23AF80FD&height=26" /></a></td>
+			<td align="center"><a href=https://www.apple.com/fr/ios/ title="iOS"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:ios.svg?color=%23AF80FD&height=26" /></a></td>
+			<td align="center"><a href=https://git-scm.com/ title="Git"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:git.svg?color=%23AF80FD&height=26" /></a></td>
+			<td align="center"><a href=https://www.apple.com/swift/ title="Swift"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:swift.svg?color=%23AF80FD&height=26" /></a></td>
+		</tr>
+		<tr>
+			<td align="center"><a href=https://www.java.com/ title="Java"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:java.svg?color=%23AF80FD&height=26" /></a></td>
+			<td align="center"><a href=https://en.wikipedia.org/wiki/C_(programming_language) title="Clang"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:c.svg?color=%23AF80FD&height=26" /></a></td>
+			<td align="center"><a href=https://unity.com/ title="Unity"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:unity.svg?color=%23AF80FD&height=26" /></a></td>
+			<td align="center"><a title="SASS" href=https://sass-lang.com/><img align="center" width="26px" src="https://api.iconify.design/simple-icons:sass.svg?color=%23AF80FD&height=26" /></a></td>
+			<td align="center"><a href=https://www.postgresql.org/ title="SQL Databases (PostgreSQL, MySQL)"><img align="center" width="26px" src="https://api.iconify.design/carbon:sql.svg?color=%23AF80FD&height=26" /></a></td>
+			<td align="center"><a href=https://www.adobe.com/products/premiere.html title="Adobe Premiere Pro"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:adobepremierepro.svg?color=%23AF80FD&height=26" /></a></td>
+			<td align="center"><a href=https://www.adobe.com/products/photoshop.html title="Adobe Photoshop"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:adobephotoshop.svg?color=%23AF80FD&height=26" /></a></td>
+			<td align="center"><a href=https://microsoft.com/windows title="Windows"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:windows.svg?color=%23AF80FD&height=26" /></a></td>
+			<td align="center"><a href=https://docker.com/ title="Docker"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:docker.svg?color=%23AF80FD&height=26" /></a></td>
+			<td align="center"><a href=https://redis.io/ title="Redis"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:redis.svg?color=%23AF80FD&height=26" /></a></td>
+		</tr>
+		<tr>
+			<td align="center"><a href=https://docs.microsoft.com/dotnet/csharp/tour-of-csharp/ title="C#"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:csharp.svg?color=%23AF80FD&height=26" /></a></td>
+			<td align="center"><a href=https://www.php.net/ title="PHP"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:php.svg?color=%23AF80FD&height=26" /></a></td>
+			<td align="center"></td>
+			<td align="center"><a href=https://reactjs.org title="React"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:react.svg?color=%23AF80FD&height=26" /></a></td>
+			<td align="center"></td>
+			<td align="center"><a href=https://obsproject.com/ title="OBS Studio"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:obsstudio.svg?color=%23AF80FD&height=26" /></a></td>
+			<td align="center"></td>
+			<td align="center"><a href=https://serato.com/ title="Serato"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:serato.svg?color=%23AF80FD&height=26" /></a></td>
+			<td align="center"><a href=https://www.apple.com/fr/macos/ title="MacOS"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:macos.svg?color=%23AF80FD&height=26" /></a></td>
+			<td align="center"><a href=https://www.npmjs.com/ title="NPM"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:npm.svg?color=%23AF80FD&height=26" /></a></td>
+		</tr>
+		<tr>
+			<td align="center"></td>
+			<td align="center"></td>
+			<td align="center"></td>
+			<td align="center"><a href=https://nextjs.org/ title="NextJS"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:nextdotjs.svg?color=%23AF80FD&height=26" /></a></td>
+			<td align="center"></td>
+			<td align="center"></td>
+			<td align="center"></td>
+			<td align="center"><a href=https://www.kernel.org/ title="Linux"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:linux.svg?color=%23AF80FD&height=26" /></a></td>
+			<td align="center"><a href=https://discord.com/developers/docs/intro title="Discord"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:discord.svg?color=%23AF80FD&height=26" /></a></td>
+			<td align="center"><a href=https://bun.sh/ title="Bun"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:bun.svg?color=%23AF80FD&height=26" /></a></td>
+		</tr>
+		<tr>
+			<td align="center"></td>
+			<td align="center"></td>
+			<td align="center"></td>
+			<td align="center"></td>
+			<td align="center"></td>
+			<td align="center"></td>
+			<td align="center"></td>
+			<td align="center"><a href=https://code.visualstudio.com/ title="Visual Studio Code"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:visualstudiocode.svg?color=%23AF80FD&height=26" /></a></td>
+			<td align="center"><a href=https://visualstudio.microsoft.com/ title="Visual Studio"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:visualstudio.svg?color=%23AF80FD&height=26" /></a></td>
+			<td align="center"><a href=https://godotengine.org/ title="Godot"><img align="center" width="26px" src="https://api.iconify.design/cib:godot-engine.svg?color=%23AF80FD&height=26" /></a></td>
+		</tr>
+	</tbody>
+</table>
 
-<br />
-
-#### Environments :
-[<img align="left" alt="Git" width="26px" src="https://api.iconify.design/simple-icons:git.svg?color=%238575FF&height=26" />][git]
-[<img align="left" alt="SQL Databases (PostgreSQL, MySQL)" width="26px" src="https://api.iconify.design/carbon:sql.svg?color=%23AF80FD&height=26" />][sql]
-[<img align="left" alt="MongoDB" width="26px" src="https://api.iconify.design/simple-icons:mongodb.svg?color=%238575FF&height=26" />][mongodb]
-[<img align="left" alt="GitHub" width="26px" src="https://api.iconify.design/simple-icons:github.svg?color=%238575FF&height=26" />][github]
-[<img align="left" alt="Android" width="26px" src="https://api.iconify.design/simple-icons:android.svg?color=%238575FF&height=26" />][android]
-[<img align="left" alt="iOS" width="26px" src="https://api.iconify.design/simple-icons:ios.svg?color=%238575FF&height=26" />][ios]
-[<img align="left" alt="Windows" width="26px" src="https://api.iconify.design/simple-icons:windows.svg?color=%238575FF&height=26" />][windows]
-[<img align="left" alt="Linux" width="26px" src="https://api.iconify.design/simple-icons:linux.svg?color=%238575FF&height=26" />][linux]
-[<img align="left" alt="NPM" width="26px" src="https://api.iconify.design/simple-icons:npm.svg?color=%238575FF&height=26" />][npm]
-[<img align="left" alt="Discord" width="26px" src="https://api.iconify.design/simple-icons:discord.svg?color=%238575FF&height=26" />][discordapp]
-[<img align="left" alt="Docker" width="26px" src="https://api.iconify.design/simple-icons:docker.svg?color=%238575FF&height=26" />][docker]
-
-<br />
-
-#### Tools :
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://api.iconify.design/simple-icons:visualstudiocode.svg?color=%238575FF&height=26" />][vscode]
-[<img align="left" alt="Figma" width="26px" src="https://api.iconify.design/simple-icons:figma.svg?color=%238575FF&height=26" />][figma]
-[<img align="left" alt="Ableton" width="26px" src="https://api.iconify.design/simple-icons:abletonlive.svg?color=%238575FF&height=26" />][ableton]
-[<img align="left" alt="Adobe After Effects" width="26px" src="https://api.iconify.design/simple-icons:adobeaftereffects.svg?color=%238575FF&height=26" />][adobe_ae]
-[<img align="left" alt="Adobe Illustrator" width="26px" src="https://api.iconify.design/simple-icons:adobeillustrator.svg?color=%238575FF&height=26" />][adobe_il]
-[<img align="left" alt="Adobe Photoshop" width="26px" src="https://api.iconify.design/simple-icons:adobephotoshop.svg?color=%238575FF&height=26" />][adobe_ps]
-[<img align="left" alt="Adobe Premiere Pro" width="26px" src="https://api.iconify.design/simple-icons:adobepremierepro.svg?color=%238575FF&height=26" />][adobe_pp]
-[<img align="left" alt="OBS Studio" width="26px" src="https://api.iconify.design/simple-icons:obsstudio.svg?color=%238575FF&height=26" />][obs]
-
-<br />
-
-#### 👀 :
-[<img align="left" alt="Rust" width="26px" src="https://api.iconify.design/simple-icons:rust.svg?color=%238575FF&height=26" />][rust]
-[<img align="left" alt="Redis" width="26px" src="https://api.iconify.design/simple-icons:redis.svg?color=%238575FF&height=26" />][redis]
-[<img align="left" alt="C#" width="26px" src="https://api.iconify.design/simple-icons:csharp.svg?color=%238575FF&height=26" />][csharp]
-[<img align="left" alt="MongoDB" width="26px" src="https://api.iconify.design/cib:godot-engine.svg?color=%238575FF&height=26" />][godot]
-[<img align="left" alt="MongoDB" width="26px" src="https://api.iconify.design/simple-icons:unity.svg?color=%238575FF&height=26" />][unity]
-[<img align="left" alt="MongoDB" width="26px" src="https://api.iconify.design/simple-icons:bun.svg?color=%238575FF&height=26" />][bun]
-<br />
 
 ---
 
