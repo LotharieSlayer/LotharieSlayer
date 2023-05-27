@@ -51,6 +51,7 @@
 [csharp]: https://docs.microsoft.com/dotnet/csharp/tour-of-csharp/
 [godot]: https://godotengine.org/
 [unity]: https://unity.com/
+[bun]: https://bun.sh/
 
 
 ### My networks :
@@ -113,6 +114,7 @@
 [<img align="left" alt="C#" width="26px" src="https://api.iconify.design/simple-icons:csharp.svg?color=%238575FF&height=26" />][csharp]
 [<img align="left" alt="MongoDB" width="26px" src="https://api.iconify.design/cib:godot-engine.svg?color=%238575FF&height=26" />][godot]
 [<img align="left" alt="MongoDB" width="26px" src="https://api.iconify.design/simple-icons:unity.svg?color=%238575FF&height=26" />][unity]
+[<img align="left" alt="MongoDB" width="26px" src="https://api.iconify.design/simple-icons:bun.svg?color=%238575FF&height=26" />][bun]
 <br />
 
 ---
