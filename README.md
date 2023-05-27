@@ -60,7 +60,7 @@
 			<td align="center"><a href=https://www.adobe.com/products/illustrator.html title="Adobe Illustrator"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:adobeillustrator.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
 			<td align="center"><a href=https://www.apple.com/fr/ios/ title="iOS"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:ios.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
 			<td align="center"><a href=https://git-scm.com/ title="Git"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:git.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
-			<td align="center"><a href=https://visualstudio.microsoft.com/ title="Visual Studio"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:visualstudio.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
+			<td align="center"><a href=https://code.visualstudio.com/ title="Visual Studio Code"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:visualstudiocode.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
 			<td align="center"><a href=https://www.apple.com/swift/ title="Swift"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:swift.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
 		</tr>
 		<tr>
