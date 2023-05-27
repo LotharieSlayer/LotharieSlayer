@@ -107,9 +107,9 @@
 			<td align="center"></td>
 			<td align="center"><a href=https://obsproject.com/ title="OBS Studio"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:obsstudio.svg?color=%23AF80FD&height=26" /></a></td>
 			<td align="center"></td>
-			<td align="center"><a href=https://serato.com/ title="Serato"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:serato.svg?color=%23AF80FD&height=26" /></a></td>
 			<td align="center"><a href=https://www.apple.com/fr/macos/ title="MacOS"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:macos.svg?color=%23AF80FD&height=26" /></a></td>
 			<td align="center"><a href=https://www.npmjs.com/ title="NPM"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:npm.svg?color=%23AF80FD&height=26" /></a></td>
+			<td align="center"><a href=https://godotengine.org/ title="Godot"><img align="center" width="26px" src="https://api.iconify.design/cib:godot-engine.svg?color=%23AF80FD&height=26" /></a></td>
 		</tr>
 		<tr>
 			<td align="center"></td>
@@ -133,7 +133,6 @@
 			<td align="center"></td>
 			<td align="center"><a href=https://code.visualstudio.com/ title="Visual Studio Code"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:visualstudiocode.svg?color=%23AF80FD&height=26" /></a></td>
 			<td align="center"><a href=https://visualstudio.microsoft.com/ title="Visual Studio"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:visualstudio.svg?color=%23AF80FD&height=26" /></a></td>
-			<td align="center"><a href=https://godotengine.org/ title="Godot"><img align="center" width="26px" src="https://api.iconify.design/cib:godot-engine.svg?color=%23AF80FD&height=26" /></a></td>
 		</tr>
 	</tbody>
 </table>
