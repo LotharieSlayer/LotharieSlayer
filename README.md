@@ -90,7 +90,7 @@
 			<td align="center"><a href=https://godotengine.org/ title="Godot"><img align="center" width="26px" src="https://api.iconify.design/cib:godot-engine.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
 		</tr>
 		<tr>
-			<td align="center"></td>
+			<td align="center"><a href=https://www.python.org/ title="Python"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:python.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
 			<td align="center"></td>
 			<td align="center"></td>
 			<td align="center"><a href=https://nextjs.org/ title="NextJS"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:nextdotjs.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
