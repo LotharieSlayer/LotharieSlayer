@@ -113,6 +113,6 @@
 </div>
 <div align="center">
   <a href="https://wakatime.com/@LotharieSlayer">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=LotharieSlayer&layout=compact&custom_title=Weekly%20Development%20Breakdown&hide_border=true&icon_color=fff&bg_color=AF80FD&title_color=fff&text_color=fff" target="_blank" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=LotharieSlayer&layout=compact&custom_title=Weekly%20Development%20Breakdown&hide_border=true&icon_color=fff&bg_color=AF80FD&title_color=fff&text_color=fff&range=last_7_days" target="_blank" />
   </a>
 </div>
