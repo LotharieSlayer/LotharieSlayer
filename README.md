@@ -39,7 +39,7 @@
 	<tbody>
 		<tr>
 			<td align="center"><a title="Javascript" href=https://developer.mozilla.org/fr/docs/Web/JavaScript><img align="center" width="26px" src="https://api.iconify.design/simple-icons:javascript.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
-			<td align="center"><a title="Typescript" href=https://www.typescriptlang.orgtarget="_blank" /><img align="center" width="26px" src="https://api.iconify.design/akar-icons:typescript-fill.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
+			<td align="center"><a title="Typescript" href=https://www.typescriptlang.org target="_blank" /><img align="center" width="26px" src="https://api.iconify.design/akar-icons:typescript-fill.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
 			<td align="center"><a href=https://flutter.dev/ title="Flutter"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:flutter.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
 			<td align="center"><a title="HTML5" href=https://developer.mozilla.org/fr/docs/Web/HTML><img align="center" width="26px" src="https://api.iconify.design/simple-icons:html5.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
 			<td align="center"><a href=https://www.mongodb.com title="MongoDB"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:mongodb.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
