@@ -109,8 +109,8 @@
 ---
 
 <div align="center">
-  <img align="center" width="800" src="https://github-readme-stats.vercel.app/api?username=LotharieSlayer&show_icons=true&count_private=true&hide_border=true&icon_color=fff&bg_color=AF80FDe6&title_color=fff&text_color=fff&border_radius=20" target="_blank" />
+  <img align="center" width="500" src="https://github-readme-stats.vercel.app/api?username=LotharieSlayer&show_icons=true&count_private=true&hide_border=true&icon_color=fff&bg_color=AF80FDe6&title_color=fff&text_color=fff&border_radius=20" target="_blank" />
   <a href="https://wakatime.com/@LotharieSlayer">
-    <img align="center" width="800" src="https://github-readme-stats.vercel.app/api/wakatime?username=LotharieSlayer&layout=compact&custom_title=Weekly%20Development%20Breakdown&hide_border=true&icon_color=fff&bg_color=AF80FDe6&title_color=fff&text_color=fff&range=last_7_days&border_radius=20" target="_blank" />
+    <img align="center" width="500" src="https://github-readme-stats.vercel.app/api/wakatime?username=LotharieSlayer&layout=compact&custom_title=Weekly%20Development%20Breakdown&hide_border=true&icon_color=fff&bg_color=AF80FDe6&title_color=fff&text_color=fff&range=last_7_days&border_radius=20" target="_blank" />
   </a>
 </div>
