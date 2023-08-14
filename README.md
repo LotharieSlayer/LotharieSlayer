@@ -61,7 +61,7 @@
 			<td align="center"><a href=https://www.apple.com/fr/ios/ title="iOS"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:ios.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
 			<td align="center"><a href=https://git-scm.com/ title="Git"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:git.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
 			<td align="center"><a href=https://code.visualstudio.com/ title="Visual Studio Code"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:visualstudiocode.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
-			<td align="center"><a href=https://www.apple.com/swift/ title="Swift"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:swift.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
+			<td align="center"><a href=https://www.autodesk.fr/products/maya/overview title="Maya"><img align="center" width="26px" src="https://api.iconify.design/devicon-plain:maya.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
 		</tr>
 		<tr>
 			<td align="center"><a href=https://www.java.com/ title="Java"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:java.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
@@ -83,7 +83,7 @@
 			<td align="center"><a href=https://reactjs.org title="React"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:react.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
 			<td align="center"></td>
 			<td align="center"><a href=https://obsproject.com/ title="OBS Studio"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:obsstudio.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
-			<td align="center"></td>
+			<td align="center"><a href=https://www.blender.org/ title="Blender"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:blender.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
 			<td align="center"><a href=https://www.apple.com/fr/macos/ title="MacOS"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:macos.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
 			<td align="center"><a href=https://www.npmjs.com/ title="NPM"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:npm.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
 			<td align="center"><a href=https://www.twitch.tv/ title="Twitch"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:twitch.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
