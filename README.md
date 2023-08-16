@@ -51,7 +51,7 @@
 			<td align="center"><a href=https://www.rust-lang.org/ title="Rust"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:rust.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
 		</tr>
 		<tr>
-			<td align="center"><a href=https://nodejs.org/ title="NodeJS"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:node-dot-js.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
+			<td align="center"><a href=https://nodejs.org/ title="NodeJS"><img align="center" width="26px" src="https://api.iconify.design/fontisto:nodejs.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
 			<td align="center"><a href=https://flutter.dev/ title="Dart"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:dart.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
 			<td align="center"><a href=https://openjfx.io/ title="JavaFX"><img align="center" width="26px" src="https://api.iconify.design/iconoir:fx-tag.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
 			<td align="center"><a title="CSS3" href=https://developer.mozilla.org/fr/docs/Web/CSS><img align="center" width="26px" src="https://api.iconify.design/simple-icons:css3.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
