@@ -91,7 +91,7 @@
 		</tr>
 		<tr>
 			<td align="center"><a href=https://www.python.org/ title="Python"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:python.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
-			<td align="center"></td>
+			<td align="center"><a href=https://kotlinlang.org/ title="Kotlin"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:kotlin.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
 			<td align="center"></td>
 			<td align="center"><a href=https://nextjs.org/ title="NextJS"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:nextdotjs.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
 			<td align="center"></td>
