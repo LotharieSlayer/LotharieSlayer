@@ -51,8 +51,8 @@
 			<td align="center"><a href=https://www.rust-lang.org/ title="Rust"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:rust.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
 		</tr>
 		<tr>
-			<td align="center"><a href=https://nodejs.org/ title="NodeJS"><img align="center" width="26px" src="https://api.iconify.design/fontisto:nodejs.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
 			<td align="center"><a href=https://flutter.dev/ title="Dart"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:dart.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
+			<td align="center"><a href=https://www.java.com/ title="Java"><img align="center" width="26px" src="https://api.iconify.design/cib:java.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
 			<td align="center"><a href=https://openjfx.io/ title="JavaFX"><img align="center" width="26px" src="https://api.iconify.design/iconoir:fx-tag.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
 			<td align="center"><a title="CSS3" href=https://developer.mozilla.org/fr/docs/Web/CSS><img align="center" width="26px" src="https://api.iconify.design/simple-icons:css3.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
 			<td align="center"><a href=https://isar.dev/fr/ title="Isar"><img align="center" width="26px" src="https://api.iconify.design/fluent:water-24-filled.svg?color=%23AF80FD&height=26"" target="_blank" /></a></td>
@@ -64,7 +64,7 @@
 			<td align="center"><a href=https://www.autodesk.fr/products/maya/overview title="Maya"><img align="center" width="26px" src="https://api.iconify.design/devicon-plain:maya.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
 		</tr>
 		<tr>
-			<td align="center"><a href=https://www.java.com/ title="Java"><img align="center" width="26px" src="https://api.iconify.design/cib:java.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
+			<td align="center"><a href=https://docs.microsoft.com/dotnet/csharp/tour-of-csharp/ title="C#"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:csharp.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
 			<td align="center"><a href=https://en.wikipedia.org/wiki/C_(programming_language) title="Clang"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:c.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
 			<td align="center"><a href=https://unity.com/ title="Unity"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:unity.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
 			<td align="center"><a title="SASS" href=https://sass-lang.com target="_blank" /><img align="center" width="26px" src="https://api.iconify.design/simple-icons:sass.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
@@ -74,20 +74,20 @@
 			<td align="center"><a href=https://microsoft.com/windows title="Windows"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:windows.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
 			<td align="center"><a href=https://docker.com/ title="Docker"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:docker.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
 			<td align="center"><a href=https://discord.com/developers/docs/intro title="Discord"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:discord.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
-			<td align="center"><a href=https://redis.io/ title="Redis"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:redis.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
+			<td align="center"><a href=https://godotengine.org/ title="Godot"><img align="center" width="26px" src="https://api.iconify.design/cib:godot-engine.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
 		</tr>
 		<tr>
-			<td align="center"><a href=https://docs.microsoft.com/dotnet/csharp/tour-of-csharp/ title="C#"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:csharp.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
+			<td align="center"><a href=https://symfony.com/ title="Symfony"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:symfony.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
 			<td align="center"><a href=https://www.php.net/ title="PHP"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:php.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
 			<td align="center"></td>
 			<td align="center"><a href=https://reactjs.org title="React"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:react.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
-			<td align="center"></td>
+			<td align="center"><a href=https://redis.io/ title="Redis"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:redis.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
 			<td align="center"><a href=https://obsproject.com/ title="OBS Studio"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:obsstudio.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
 			<td align="center"><a href=https://www.blender.org/ title="Blender"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:blender.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
 			<td align="center"><a href=https://www.apple.com/fr/macos/ title="MacOS"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:macos.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
 			<td align="center"><a href=https://www.npmjs.com/ title="NPM"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:npm.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
 			<td align="center"><a href=https://www.twitch.tv/ title="Twitch"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:twitch.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
-			<td align="center"><a href=https://godotengine.org/ title="Godot"><img align="center" width="26px" src="https://api.iconify.design/cib:godot-engine.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
+			<td align="center"></td>
 		</tr>
 		<tr>
 			<td align="center"><a href=https://www.python.org/ title="Python"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:python.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
@@ -100,7 +100,7 @@
 			<td align="center"><a href=https://www.kernel.org/ title="Linux"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:linux.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
 			<td align="center"><a href=https://www.gnu.org/software/make/ title="GNU Make"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:gnu.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
 			<td align="center"></td>
-			<td align="center"><a href=https://bun.sh/ title="Bun"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:bun.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
+			<td align="center"></td>
 		</tr>
 	</tbody>
 </table>
