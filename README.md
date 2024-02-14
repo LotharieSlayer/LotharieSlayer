@@ -2,7 +2,7 @@
 <div align="center">
 
 [![](https://user-images.githubusercontent.com/49253492/180575937-9c8e02bb-08bc-458f-9810-856600007fc8.png)][website]
-![wakatime](https://wakapi.alexisl.fr/api/badge/LOTHARIE/interval:any?label=Total%20time)
+[![wakatime](https://wakatime.com/badge/user/c41eb962-8221-42ac-90a4-8c9b3ff1d86d.svg)](https://wakatime.com/@c41eb962-8221-42ac-90a4-8c9b3ff1d86d)
 ![](https://hit.yhype.me/github/profile?user_id=7025343)
   
 </div>
