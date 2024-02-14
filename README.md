@@ -2,7 +2,7 @@
 <div align="center">
 
 [![](https://user-images.githubusercontent.com/49253492/180575937-9c8e02bb-08bc-458f-9810-856600007fc8.png)][website]
-[![wakatime](https://wakatime.com/badge/user/c41eb962-8221-42ac-90a4-8c9b3ff1d86d.svg)](https://wakatime.com/@c41eb962-8221-42ac-90a4-8c9b3ff1d86d)
+![wakatime](https://wakapi.alexisl.fr/api/badge/LOTHARIE/interval:any?label=Total%20time)
 ![](https://hit.yhype.me/github/profile?user_id=7025343)
   
 </div>
@@ -38,8 +38,8 @@
 	</thead>
 	<tbody>
 		<tr>
-			<td align="center"><a title="Javascript" href=https://developer.mozilla.org/fr/docs/Web/JavaScript><img align="center" width="26px" src="https://api.iconify.design/simple-icons:javascript.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
 			<td align="center"><a title="Typescript" href=https://www.typescriptlang.org target="_blank" /><img align="center" width="26px" src="https://api.iconify.design/akar-icons:typescript-fill.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
+			<td align="center"><a href=https://docs.microsoft.com/dotnet/csharp/tour-of-csharp/ title="C#"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:csharp.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
 			<td align="center"><a href=https://flutter.dev/ title="Flutter"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:flutter.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
 			<td align="center"><a title="HTML5" href=https://developer.mozilla.org/fr/docs/Web/HTML><img align="center" width="26px" src="https://api.iconify.design/simple-icons:html5.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
 			<td align="center"><a href=https://www.mongodb.com title="MongoDB"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:mongodb.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
@@ -64,7 +64,7 @@
 			<td align="center"><a href=https://www.autodesk.fr/products/maya/overview title="Maya"><img align="center" width="26px" src="https://api.iconify.design/devicon-plain:maya.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
 		</tr>
 		<tr>
-			<td align="center"><a href=https://docs.microsoft.com/dotnet/csharp/tour-of-csharp/ title="C#"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:csharp.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
+			<td align="center"><a href=https://symfony.com/ title="Symfony"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:symfony.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
 			<td align="center"><a href=https://en.wikipedia.org/wiki/C_(programming_language) title="Clang"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:c.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
 			<td align="center"><a href=https://unity.com/ title="Unity"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:unity.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
 			<td align="center"><a title="SASS" href=https://sass-lang.com target="_blank" /><img align="center" width="26px" src="https://api.iconify.design/simple-icons:sass.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
@@ -77,8 +77,8 @@
 			<td align="center"><a href=https://godotengine.org/ title="Godot"><img align="center" width="26px" src="https://api.iconify.design/cib:godot-engine.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
 		</tr>
 		<tr>
-			<td align="center"><a href=https://symfony.com/ title="Symfony"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:symfony.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
 			<td align="center"><a href=https://www.php.net/ title="PHP"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:php.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
+			<td align="center"><a href=https://www.python.org/ title="Python"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:python.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
 			<td align="center"></td>
 			<td align="center"><a href=https://reactjs.org title="React"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:react.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
 			<td align="center"><a href=https://redis.io/ title="Redis"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:redis.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
@@ -90,8 +90,8 @@
 			<td align="center"></td>
 		</tr>
 		<tr>
-			<td align="center"><a href=https://www.python.org/ title="Python"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:python.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
 			<td align="center"><a href=https://kotlinlang.org/ title="Kotlin"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:kotlin.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
+			<td align="center"><a href=https://www.scala-lang.org/ title="Scala"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:scala.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
 			<td align="center"></td>
 			<td align="center"><a href=https://nextjs.org/ title="NextJS"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:nextdotjs.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
 			<td align="center"></td>
@@ -109,8 +109,6 @@
 ---
 
 <div align="center">
-  <img align="center" width="500" src="https://github-readme-stats.vercel.app/api?username=LotharieSlayer&show_icons=true&count_private=true&hide_border=true&icon_color=fff&bg_color=AF80FDe6&title_color=fff&text_color=fff&border_radius=20" target="_blank" />
-  <a href="https://wakatime.com/@LotharieSlayer">
-    <img align="center" width="500" src="https://github-readme-stats.vercel.app/api/wakatime?username=LotharieSlayer&layout=compact&custom_title=Weekly%20Development%20Breakdown&hide_border=true&icon_color=fff&bg_color=AF80FDe6&title_color=fff&text_color=fff&range=last_7_days&border_radius=20" target="_blank" />
-  </a>
+	<img align="center" width="500" src="https://github-readme-stats.vercel.app/api?username=LotharieSlayer&show_icons=true&count_private=true&hide_border=true&icon_color=fff&bg_color=AF80FDe6&title_color=fff&text_color=fff&border_radius=20" target="_blank" />
+	<img align="center" width="500" src="https://github-readme-stats.vercel.app/api/wakatime?username=LOTHARIE&api_domain=wakapi.alexisl.fr&bg_color=AF80FDe6&title_color=fff&icon_color=2F855A&text_color=fff&custom_title=Weekly%20Development%20Breakdown&layout=compact&border_radius=20&range=last_7_days&hide_border=true"/>
 </div>
