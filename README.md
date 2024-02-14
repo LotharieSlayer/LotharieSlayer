@@ -110,5 +110,5 @@
 
 <div align="center">
 	<img align="center" width="500" src="https://github-readme-stats.vercel.app/api?username=LotharieSlayer&show_icons=true&count_private=true&hide_border=true&icon_color=fff&bg_color=AF80FDe6&title_color=fff&text_color=fff&border_radius=20" target="_blank" />
-	<img align="center" width="500" src="https://github-readme-stats.vercel.app/api/wakatime?username=LOTHARIE&api_domain=wakapi.alexisl.fr&bg_color=AF80FDe6&title_color=fff&icon_color=2F855A&text_color=fff&custom_title=Weekly%20Development%20Breakdown&layout=compact&border_radius=20&range=last_7_days&hide_border=true&"/>
+	<img align="center" width="500" src="https://github-readme-stats.vercel.app/api/wakatime?username=LOTHARIE&api_domain=wakapi.alexisl.fr&bg_color=AF80FDe6&title_color=fff&icon_color=2F855A&text_color=fff&custom_title=Weekly%20Development%20Breakdown&layout=compact&border_radius=20&range=last_7_days&hide_border=true"/>
 </div>
