@@ -40,7 +40,7 @@
 		<tr>
 			<td align="center"><a title="Typescript" href=https://www.typescriptlang.org target="_blank" /><img align="center" width="26px" src="https://api.iconify.design/akar-icons:typescript-fill.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
 			<td align="center"><a href=https://docs.microsoft.com/dotnet/csharp/tour-of-csharp/ title="C#"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:csharp.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
-			<td align="center"><a href=https://flutter.dev/ title="Flutter"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:flutter.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
+			<td align="center"><a href=https://unity.com/ title="Unity"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:unity.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
 			<td align="center"><a title="HTML5" href=https://developer.mozilla.org/fr/docs/Web/HTML><img align="center" width="26px" src="https://api.iconify.design/simple-icons:html5.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
 			<td align="center"><a href=https://www.mongodb.com title="MongoDB"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:mongodb.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
 			<td align="center"><a href=https://www.figma.com/ title="Figma"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:figma.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
@@ -53,7 +53,7 @@
 		<tr>
 			<td align="center"><a href=https://flutter.dev/ title="Dart"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:dart.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
 			<td align="center"><a href=https://www.java.com/ title="Java"><img align="center" width="26px" src="https://api.iconify.design/cib:java.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
-			<td align="center"><a href=https://openjfx.io/ title="JavaFX"><img align="center" width="26px" src="https://api.iconify.design/iconoir:fx-tag.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
+			<td align="center"><a href=https://flutter.dev/ title="Flutter"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:flutter.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
 			<td align="center"><a title="CSS3" href=https://developer.mozilla.org/fr/docs/Web/CSS><img align="center" width="26px" src="https://api.iconify.design/simple-icons:css3.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
 			<td align="center"><a href=https://isar.dev/fr/ title="Isar"><img align="center" width="26px" src="https://api.iconify.design/fluent:water-24-filled.svg?color=%23AF80FD&height=26"" target="_blank" /></a></td>
 			<td align="center"><a href=https://www.adobe.com/products/aftereffects.html title="Adobe After Effects"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:adobeaftereffects.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
@@ -66,7 +66,7 @@
 		<tr>
 			<td align="center"><a href=https://symfony.com/ title="Symfony"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:symfony.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
 			<td align="center"><a href=https://en.wikipedia.org/wiki/C_(programming_language) title="Clang"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:c.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
-			<td align="center"><a href=https://unity.com/ title="Unity"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:unity.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
+			<td align="center"><a href=https://openjfx.io/ title="JavaFX"><img align="center" width="26px" src="https://api.iconify.design/iconoir:fx-tag.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
 			<td align="center"><a title="SASS" href=https://sass-lang.com target="_blank" /><img align="center" width="26px" src="https://api.iconify.design/simple-icons:sass.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
 			<td align="center"><a href=https://www.postgresql.org/ title="SQL Databases (PostgreSQL, MySQL)"><img align="center" width="26px" src="https://api.iconify.design/carbon:sql.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
 			<td align="center"><a href=https://www.adobe.com/products/premiere.html title="Adobe Premiere Pro"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:adobepremierepro.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
