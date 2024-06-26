@@ -64,7 +64,7 @@
 			<td align="center"><a href=https://www.autodesk.fr/products/maya/overview title="Maya"><img align="center" width="26px" src="https://api.iconify.design/devicon-plain:maya.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
 		</tr>
 		<tr>
-			<td align="center"><a href=https://symfony.com/ title="Symfony"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:symfony.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
+			<td align="center"><a href=https://fr.wikipedia.org/wiki/C%2B%2B title="C++"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:cplusplus.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
 			<td align="center"><a href=https://en.wikipedia.org/wiki/C_(programming_language) title="Clang"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:c.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
 			<td align="center"><a href=https://openjfx.io/ title="JavaFX"><img align="center" width="26px" src="https://api.iconify.design/iconoir:fx-tag.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
 			<td align="center"><a title="SASS" href=https://sass-lang.com target="_blank" /><img align="center" width="26px" src="https://api.iconify.design/simple-icons:sass.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
