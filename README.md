@@ -12,43 +12,33 @@
 
 ### My projects
 
-<div style="display: flex; flex-wrap: wrap;">
-  <div style="flex: 1; padding: 5px;">
-    <a href="https://francememes.com/"><img src="assets/fm.png" alt="FRANCE MEMES" style="width: 100%;" /></a>
-    <a href="https://github.com/LotharieSlayer/wtpbot"><img src="assets/wtp.png" alt="WhatThePhoqueBOT" style="width: 100%;" /></a>
-    <a href="https://francememes.com/"><img src="assets/fm_bot.png" alt="FRANCE BOT" style="width: 100%;" /></a>
-    <a href="https://jetrush.lotharie.net/"><img src="assets/jetrush.png" alt="JETRUSH" style="width: 100%;" /></a>
-  </div>
-  <div style="flex: 1; padding: 5px;">
-    <a href=""><img src="assets/game.png" alt="Unnannouced game project" style="width: 100%;" /></a>
+<div>
+	<a href="https://francememes.com/"><img src="assets/fm.png" alt="FRANCE MEMES" style="width: 100%;" /></a>
+    <a href=""><img src="assets/game.png" alt="Unnannouced game project" style="width: 49%;" /></a>
+    <a href="https://github.com/LotharieSlayer/telebot"><img src="assets/telebot.png" alt="TELEBOT" style="width: 49%;" /></a>
     <a href="https://github.com/LotharieSlayer/OBS-scripts"><img src="assets/obs.png" alt="OBS Custom" style="width: 100%;" /></a>
-    <a href="https://github.com/LotharieSlayer/telebot"><img src="assets/telebot.png" alt="TELEBOT" style="width: 100%;" /></a>
+    <a href="https://github.com/LotharieSlayer/wtpbot"><img src="assets/wtp.png" alt="WhatThePhoqueBOT" style="width: 49%;" /></a>
+    <a href="https://francememes.com/"><img src="assets/fm_bot.png" alt="FRANCE BOT" style="width: 49%;" /></a>
+    <a href="https://jetrush.lotharie.net/"><img src="assets/jetrush.png" alt="JETRUSH" style="width: 100%;" /></a>
     <a href="https://lotharie.net/"><img src="assets/see_more_dark.png" alt="See more on lotharie.net" style="width: 100%;" /></a>
-  </div>
 </div>
 
 ### School projects
 
-<div style="display: flex; flex-wrap: wrap;">
-  <div style="flex: 1; padding: 5px;">
-    <a href=""><img src="assets/codolingo.png" alt="Codolingo" style="width: 100%;" /></a>
-    <a href="https://github.com/LotharieSlayer/tetra"><img src="assets/tetra.png" alt="Tetra" style="width: 100%;" /></a>
-  </div>
-  <div style="flex: 1; padding: 5px;">
-    <a href="https://github.com/uAtomicBoolean/ant-colony"><img src="assets/ant_colony.png" alt="Ant Colony" style="width: 100%;" /></a>
-    <a href="https://github.com/LotharieSlayer/S2projetTut"><img src="assets/sdt.png" alt="Les Seigneurs du Temps" style="width: 100%;" /></a>
+<div>
+    <a href=""><img src="assets/codolingo.png" alt="Codolingo" style="width: 49%;" /></a>
+    <a href="https://github.com/LotharieSlayer/tetra"><img src="assets/tetra.png" alt="Tetra" style="width: 49%;" /></a>
+    <a href="https://github.com/uAtomicBoolean/ant-colony"><img src="assets/ant_colony.png" alt="Ant Colony" style="width: 49%;" /></a>
+    <a href="https://github.com/LotharieSlayer/S2projetTut"><img src="assets/sdt.png" alt="Les Seigneurs du Temps" style="width: 49%;" /></a>
     <a href="https://lotharie.net/"><img src="assets/see_more_dark.png" alt="See more on lotharie.net" style="width: 100%;" /></a>
-  </div>
 </div>
 
 ### Public companies projects
 
-<div style="display: flex; flex-wrap: wrap;">
-  <div style="flex: 1; padding: 5px;">
-    <a href=""><img src="assets/dt.png" alt="Drakkey Tale" style="width: 100%;" /></a>
+<div>
+    <a href=""><img src="assets/dt.png" alt="Drakkey Tale" style="width: 50%;" /></a>
   </div>
   <div style="flex: 1; padding: 5px;">
-  </div>
 </div>
 
 <br target="_blank" />
