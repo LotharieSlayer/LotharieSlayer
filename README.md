@@ -12,50 +12,44 @@
 
 ### My projects
 
-<table width="100%" style="border-collapse: collapse; border: none; vertical-align: top;">
-	<tr>
-		<td width="49%" style="border: none; padding: 5px;vertical-align: top;">
-			<a href="https://francememes.com/"><img src="assets/fm.png" alt="FRANCE MEMES" /></a>
-			<a href="https://github.com/LotharieSlayer/wtpbot"><img src="assets/wtp.png" alt="WhatThePhoqueBOT" /></a>
-			<a href="https://francememes.com/"><img src="assets/fm_bot.png" alt="FRANCE BOT" /></a>
-			<a href="https://jetrush.lotharie.net/"><img src="assets/jetrush.png" alt="JETRUSH" /></a>
-		</td>
-		<td width="49%" style="border: none; padding: 5px; vertical-align: top;">
-			<a href=""><img src="assets/game.png" alt="Unnannouced game project" /></a>
-			<a href="https://github.com/LotharieSlayer/OBS-scripts"><img src="assets/obs.png" alt="OBS Custom" /></a>
-			<a href="https://github.com/LotharieSlayer/telebot"><img src="assets/telebot.png" alt="TELEBOT" /></a>
-			<a href="https://lotharie.net/"><img src="assets/see_more_dark.png" alt="See more on lotharie.net" /></a>
-		</td>
-	</tr>
-</table>
+<div style="display: flex; flex-wrap: wrap;">
+  <div style="flex: 1; padding: 5px;">
+    <a href="https://francememes.com/"><img src="assets/fm.png" alt="FRANCE MEMES" style="width: 100%;" /></a>
+    <a href="https://github.com/LotharieSlayer/wtpbot"><img src="assets/wtp.png" alt="WhatThePhoqueBOT" style="width: 100%;" /></a>
+    <a href="https://francememes.com/"><img src="assets/fm_bot.png" alt="FRANCE BOT" style="width: 100%;" /></a>
+    <a href="https://jetrush.lotharie.net/"><img src="assets/jetrush.png" alt="JETRUSH" style="width: 100%;" /></a>
+  </div>
+  <div style="flex: 1; padding: 5px;">
+    <a href=""><img src="assets/game.png" alt="Unnannouced game project" style="width: 100%;" /></a>
+    <a href="https://github.com/LotharieSlayer/OBS-scripts"><img src="assets/obs.png" alt="OBS Custom" style="width: 100%;" /></a>
+    <a href="https://github.com/LotharieSlayer/telebot"><img src="assets/telebot.png" alt="TELEBOT" style="width: 100%;" /></a>
+    <a href="https://lotharie.net/"><img src="assets/see_more_dark.png" alt="See more on lotharie.net" style="width: 100%;" /></a>
+  </div>
+</div>
 
 ### School projects
 
-<table width="100%" style="border-collapse: collapse; border: none; vertical-align: top;">
-	<tr>
-		<td width="49%" style="border: none; padding: 5px;vertical-align: top;">
-			<a href=""><img src="assets/codolingo.png" alt="Codolingo" /></a>
-			<a href="https://github.com/LotharieSlayer/tetra"><img src="assets/tetra.png" alt="Tetra" /></a>
-		</td>
-		<td width="49%" style="border: none; padding: 5px; vertical-align: top;">
-			<a href="https://github.com/uAtomicBoolean/ant-colony"><img src="assets/ant_colony.png" alt="Ant Colony" /></a>
-			<a href="https://github.com/LotharieSlayer/S2projetTut"><img src="assets/sdt.png" alt="Les Seigneurs du Temps" /></a>
-			<a href="https://lotharie.net/"><img src="assets/see_more_dark.png" alt="See more on lotharie.net" /></a>
-		</td>
-	</tr>
-</table>
+<div style="display: flex; flex-wrap: wrap;">
+  <div style="flex: 1; padding: 5px;">
+    <a href=""><img src="assets/codolingo.png" alt="Codolingo" style="width: 100%;" /></a>
+    <a href="https://github.com/LotharieSlayer/tetra"><img src="assets/tetra.png" alt="Tetra" style="width: 100%;" /></a>
+  </div>
+  <div style="flex: 1; padding: 5px;">
+    <a href="https://github.com/uAtomicBoolean/ant-colony"><img src="assets/ant_colony.png" alt="Ant Colony" style="width: 100%;" /></a>
+    <a href="https://github.com/LotharieSlayer/S2projetTut"><img src="assets/sdt.png" alt="Les Seigneurs du Temps" style="width: 100%;" /></a>
+    <a href="https://lotharie.net/"><img src="assets/see_more_dark.png" alt="See more on lotharie.net" style="width: 100%;" /></a>
+  </div>
+</div>
 
 ### Public companies projects
 
-<table width="100%" style="border-collapse: collapse; border: none; vertical-align: top;">
-	<tr>
-		<td width="49%" style="border: none; padding: 5px;vertical-align: top;">
-			<a href=""><img src="assets/dt.png" alt="Drakkey Tale" /></a>
-		</td>
-		<td width="49%" style="border: none; padding: 5px; vertical-align: top;">
-		</td>
-	</tr>
-</table>
+<div style="display: flex; flex-wrap: wrap;">
+  <div style="flex: 1; padding: 5px;">
+    <a href=""><img src="assets/dt.png" alt="Drakkey Tale" style="width: 100%;" /></a>
+  </div>
+  <div style="flex: 1; padding: 5px;">
+  </div>
+</div>
 
 <br target="_blank" />
 
