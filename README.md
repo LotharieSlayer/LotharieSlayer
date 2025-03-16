@@ -36,7 +36,7 @@
 ### Public companies projects
 
 <div>
-    <a href=""><img src="assets/dt.png" alt="Drakkey Tale" style="width: 50%;" /></a>
+    <a href="https://apps.apple.com/us/app/drakkey-tale/id6451494020"><img src="assets/dt.png" alt="Drakkey Tale" style="width: 50%;" /></a>
   </div>
   <div style="flex: 1; padding: 5px;">
 </div>
