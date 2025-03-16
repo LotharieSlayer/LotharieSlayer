@@ -13,14 +13,14 @@
 ### My projects
 
 <div>
-	<a href="https://francememes.com/"><img src="assets/fm.png" alt="FRANCE MEMES" style="width: 100%;" /></a>
+	<a href="https://francememes.com/"><img src="assets/fm.png" alt="FRANCE MEMES" style="width: 99%;" /></a>
     <a href=""><img src="assets/game.png" alt="Unnannouced game project" style="width: 49%;" /></a>
     <a href="https://github.com/LotharieSlayer/telebot"><img src="assets/telebot.png" alt="TELEBOT" style="width: 49%;" /></a>
-    <a href="https://github.com/LotharieSlayer/OBS-scripts"><img src="assets/obs.png" alt="OBS Custom" style="width: 100%;" /></a>
+    <a href="https://github.com/LotharieSlayer/OBS-scripts"><img src="assets/obs.png" alt="OBS Custom" style="width: 99%;" /></a>
     <a href="https://github.com/LotharieSlayer/wtpbot"><img src="assets/wtp.png" alt="WhatThePhoqueBOT" style="width: 49%;" /></a>
     <a href="https://francememes.com/"><img src="assets/fm_bot.png" alt="FRANCE BOT" style="width: 49%;" /></a>
-    <a href="https://jetrush.lotharie.net/"><img src="assets/jetrush.png" alt="JETRUSH" style="width: 100%;" /></a>
-    <a href="https://lotharie.net/"><img src="assets/see_more_dark.png" alt="See more on lotharie.net" style="width: 100%;" /></a>
+    <a href="https://jetrush.lotharie.net/"><img src="assets/jetrush.png" alt="JETRUSH" style="width: 99%;" /></a>
+    <a href="https://lotharie.net/"><img src="assets/see_more_dark.png" alt="See more on lotharie.net" style="width: 99%;" /></a>
 </div>
 
 ### School projects
@@ -30,7 +30,7 @@
     <a href="https://github.com/LotharieSlayer/tetra"><img src="assets/tetra.png" alt="Tetra" style="width: 49%;" /></a>
     <a href="https://github.com/uAtomicBoolean/ant-colony"><img src="assets/ant_colony.png" alt="Ant Colony" style="width: 49%;" /></a>
     <a href="https://github.com/LotharieSlayer/S2projetTut"><img src="assets/sdt.png" alt="Les Seigneurs du Temps" style="width: 49%;" /></a>
-    <a href="https://lotharie.net/"><img src="assets/see_more_dark.png" alt="See more on lotharie.net" style="width: 100%;" /></a>
+    <a href="https://lotharie.net/"><img src="assets/see_more_dark.png" alt="See more on lotharie.net" style="width: 99%;" /></a>
 </div>
 
 ### Public companies projects
