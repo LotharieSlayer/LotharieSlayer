@@ -18,7 +18,7 @@
     <a href="https://github.com/LotharieSlayer/telebot"><img src="assets/telebot.png" alt="TELEBOT" style="width: 49%;" /></a>
     <a href="https://github.com/LotharieSlayer/OBS-scripts"><img src="assets/obs.png" alt="OBS Custom" style="width: 99%;" /></a>
     <a href="https://github.com/LotharieSlayer/wtpbot"><img src="assets/wtp.png" alt="WhatThePhoqueBOT" style="width: 49%;" /></a>
-    <a href="https://francememes.com/"><img src="assets/fm_bot.png" alt="FRANCE BOT" style="width: 49%;" /></a>
+    <a href="https://www.lotharie.net/dev/francememes"><img src="assets/fm_bot.png" alt="FRANCE BOT" style="width: 49%;" /></a>
     <a href="https://www.lotharie.net/dev/jetrush"><img src="assets/jetrush.png" alt="JETRUSH" style="width: 99%;" /></a>
     <a href="https://lotharie.net/"><img src="assets/see_more_dark.png" alt="See more on lotharie.net" style="width: 99%;" /></a>
 </div>
