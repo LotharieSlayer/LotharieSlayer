@@ -13,7 +13,7 @@
 ### My projects
 
 <div>
-	<a href="https://www.lotharie.net/dev/francememes"><img src="assets/fm.png" alt="FRANCE MEMES" style="width: 99%;" /></a>
+    <a href="https://www.lotharie.net/dev/francememes"><img src="assets/fm.png" alt="FRANCE MEMES" style="width: 99%;" /></a>
     <a href=""><img src="assets/game.png" alt="Unnannouced game project" style="width: 49%;" /></a>
     <a href="https://github.com/LotharieSlayer/telebot"><img src="assets/telebot.png" alt="TELEBOT" style="width: 49%;" /></a>
     <a href="https://github.com/LotharieSlayer/OBS-scripts"><img src="assets/obs.png" alt="OBS Custom" style="width: 99%;" /></a>
@@ -26,7 +26,7 @@
 ### School projects
 
 <div>
-    <a href=""><img src="assets/codolingo.png" alt="Codolingo" style="width: 49%;" /></a>
+    <a href="https://github.com/Codolingo/mobile"><img src="assets/codolingo.png" alt="Codolingo" style="width: 49%;" /></a>
     <a href="https://github.com/LotharieSlayer/tetra"><img src="assets/tetra.png" alt="Tetra" style="width: 49%;" /></a>
     <a href="https://github.com/uAtomicBoolean/ant-colony"><img src="assets/ant_colony.png" alt="Ant Colony" style="width: 49%;" /></a>
     <a href="https://github.com/LotharieSlayer/S2projetTut"><img src="assets/sdt.png" alt="Les Seigneurs du Temps" style="width: 49%;" /></a>
