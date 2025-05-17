@@ -75,7 +75,7 @@
    <td align="center"><a href=https://flutter.dev/ title="Dart"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:dart.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
    <td align="center"><a href=https://www.java.com/ title="Java"><img align="center" width="26px" src="https://api.iconify.design/cib:java.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
    <td align="center"><a href=https://flutter.dev/ title="Flutter"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:flutter.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
-   <td align="center"><a title="CSS3" href=https://developer.mozilla.org/fr/docs/Web/CSS><img align="center" width="26px" src="https://api.iconify.design/simple-icons:css3.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
+   <td align="center"><a title="CSS3" href=https://developer.mozilla.org/fr/docs/Web/CSS><img align="center" width="26px" src="https://api.iconify.design/simple-icons:css3.svg?color=%23AF80FD&height=26" target="_blank" /></a> <a title="SASS" href=https://sass-lang.com target="_blank" /><img align="center" width="26px" src="https://api.iconify.design/simple-icons:sass.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
    <td align="center"><a href=https://isar.dev/fr/ title="Isar"><img align="center" width="26px" src="https://api.iconify.design/fluent:water-24-filled.svg?color=%23AF80FD&height=26"" target="_blank" /></a></td>
    <td align="center"><a href=https://www.adobe.com/products/aftereffects.html title="Adobe After Effects"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:adobeaftereffects.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
    <td align="center"><a href=https://www.adobe.com/products/illustrator.html title="Adobe Illustrator"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:adobeillustrator.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
@@ -88,7 +88,7 @@
    <td align="center"><a href=https://fr.wikipedia.org/wiki/C%2B%2B title="C++"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:cplusplus.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
    <td align="center"><a href=https://en.wikipedia.org/wiki/C_(programming_language) title="Clang"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:c.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
    <td align="center"><a href=https://openjfx.io/ title="JavaFX"><img align="center" width="26px" src="https://api.iconify.design/iconoir:fx-tag.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
-   <td align="center"><a title="SASS" href=https://sass-lang.com target="_blank" /><img align="center" width="26px" src="https://api.iconify.design/simple-icons:sass.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
+   <td align="center"><a href=https://reactjs.org title="React"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:react.svg?color=%23AF80FD&height=26" target="_blank" /></a> <a href=https://nextjs.org/ title="NextJS"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:nextdotjs.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
    <td align="center"><a href=https://www.postgresql.org/ title="SQL Databases (PostgreSQL, MySQL)"><img align="center" width="26px" src="https://api.iconify.design/carbon:sql.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
    <td align="center"><a href=https://www.adobe.com/products/premiere.html title="Adobe Premiere Pro"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:adobepremierepro.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
    <td align="center"><a href=https://www.adobe.com/products/photoshop.html title="Adobe Photoshop"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:adobephotoshop.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
@@ -101,7 +101,7 @@
    <td align="center"><a href=https://www.php.net/ title="PHP"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:php.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
    <td align="center"><a href=https://www.python.org/ title="Python"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:python.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
    <td align="center"></td>
-   <td align="center"><a href=https://reactjs.org title="React"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:react.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
+   <td align="center"><a href=https://angular.dev/ title="Angular"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:angular.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
    <td align="center"><a href=https://redis.io/ title="Redis"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:redis.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
    <td align="center"><a href=https://obsproject.com/ title="OBS Studio"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:obsstudio.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
    <td align="center"><a href=https://www.blender.org/ title="Blender"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:blender.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
@@ -114,7 +114,7 @@
    <td align="center"><a href=https://kotlinlang.org/ title="Kotlin"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:kotlin.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
    <td align="center"><a href=https://www.scala-lang.org/ title="Scala"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:scala.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
    <td align="center"></td>
-   <td align="center"><a href=https://nextjs.org/ title="NextJS"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:nextdotjs.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
+   <td align="center"></td>
    <td align="center"></td>
    <td align="center"></td>
    <td align="center"></td>
