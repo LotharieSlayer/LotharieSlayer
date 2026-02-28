@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Lotharie's GitHub Stats, Rank: B</title>
-        <desc id="descId">Total Stars Earned: 46, Total Commits  (last year) : 69, Total PRs: 51, Total Issues: 59, Contributed to (last year): 9</desc>
+        <desc id="descId">Total Stars Earned: 46, Total Commits  (last year) : 71, Total PRs: 51, Total Issues: 59, Contributed to (last year): 9</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -22,7 +22,7 @@
           }
           
     .stat {
-      font: 600 14px 'Segoe UI', Ubuntu, "Helvetica Neue", Sans-Serif; fill: #FFFFFF;
+      font: 600 14px 'Segoe UI', Ubuntu, "Helvetica Neue", Sans-Serif; fill: #fff;
     }
     @supports(-moz-appearance: auto) {
       /* Selector detects Firefox */
@@ -33,7 +33,7 @@
       animation: fadeInAnimation 0.3s ease-in-out forwards;
     }
     .rank-text {
-      font: 800 24px 'Segoe UI', Ubuntu, Sans-Serif; fill: #FFFFFF;
+      font: 800 24px 'Segoe UI', Ubuntu, Sans-Serif; fill: #fff;
       animation: scaleInAnimation 0.3s ease-in-out forwards;
     }
     .rank-percentile-header {
@@ -46,7 +46,7 @@
     .not_bold { font-weight: 400 }
     .bold { font-weight: 700 }
     .icon {
-      fill: #FFFFFF;
+      fill: #fff;
       display: block;
     }
 
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 137.5590121172629;
+        stroke-dashoffset: 137.3677115688819;
       }
     }
   
@@ -107,12 +107,12 @@
           data-testid="card-bg"
           x="0.5"
           y="0.5"
-          rx="4.5"
+          rx="20"
           height="99%"
           stroke="#e4e2e2"
           width="466"
-          fill="#23AF80FD"
-          stroke-opacity="1"
+          fill="#AF80FDe6"
+          stroke-opacity="0"
         />
 
         
@@ -177,7 +177,7 @@
         x="219.01"
         y="12.5"
         data-testid="commits"
-      >69</text>
+      >71</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">

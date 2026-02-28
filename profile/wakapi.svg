@@ -13,7 +13,7 @@
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
-            fill: #FFFFFF;
+            fill: #fff;
             animation: fadeInAnimation 0.8s ease-in-out forwards;
           }
           @supports(-moz-appearance: auto) {
@@ -23,7 +23,7 @@
           
     
     .stat {
-      font: 600 14px 'Segoe UI', Ubuntu, "Helvetica Neue", Sans-Serif; fill: #FFFFFF;
+      font: 600 14px 'Segoe UI', Ubuntu, "Helvetica Neue", Sans-Serif; fill: #fff;
     }
     @supports(-moz-appearance: auto) {
       /* Selector detects Firefox */
@@ -52,7 +52,7 @@
         width: 100%;
       }
     }
-    .lang-name { font: 400 11px 'Segoe UI', Ubuntu, Sans-Serif; fill: #FFFFFF }
+    .lang-name { font: 400 11px 'Segoe UI', Ubuntu, Sans-Serif; fill: #fff }
     #rect-mask rect{
       animation: slideInAnimation 1s ease-in-out forwards;
     }
@@ -89,12 +89,12 @@
           data-testid="card-bg"
           x="0.5"
           y="0.5"
-          rx="4.5"
+          rx="20"
           height="99%"
           stroke="#e4e2e2"
           width="494"
-          fill="#23AF80FD"
-          stroke-opacity="1"
+          fill="#AF80FDe6"
+          stroke-opacity="0"
         />
 
         
@@ -108,7 +108,7 @@
         y="0"
         class="header"
         data-testid="header"
-      >Languages used last week</text>
+      >Weekly Development Breakdown</text>
     </g>
       </g>
     
