@@ -134,3 +134,7 @@
  <img align="center" width="500" src="https://raw.githubusercontent.com/LotharieSlayer/LotharieSlayer/refs/heads/main/profile/stats.svg" />
  <img align="center" width="500" src="https://raw.githubusercontent.com/LotharieSlayer/LotharieSlayer/refs/heads/main/profile/wakapi.svg" />
 </div>
+
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
