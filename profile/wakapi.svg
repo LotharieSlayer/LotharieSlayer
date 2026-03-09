@@ -1,8 +1,8 @@
 
       <svg
         width="495"
-        height="190"
-        viewBox="0 0 495 190"
+        height="90"
+        viewBox="0 0 495 90"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
         role="img"
@@ -124,142 +124,8 @@
       <rect x="25" y="0" width="440" height="8" fill="white" rx="5" />
       </mask>
       
-          <rect
-            mask="url(#rect-mask)"
-            data-testid="lang-progress"
-            x="0"
-            y="0"
-            width="136.0125"
-            height="8"
-            fill="#cb171e"
-          />
-        
-          <rect
-            mask="url(#rect-mask)"
-            data-testid="lang-progress"
-            x="136.0125"
-            y="0"
-            width="112.39050000000002"
-            height="8"
-            fill="#858585"
-          />
-        
-          <rect
-            mask="url(#rect-mask)"
-            data-testid="lang-progress"
-            x="248.40300000000002"
-            y="0"
-            width="80.259"
-            height="8"
-            fill="#858585"
-          />
-        
-          <rect
-            mask="url(#rect-mask)"
-            data-testid="lang-progress"
-            x="328.66200000000003"
-            y="0"
-            width="53.01"
-            height="8"
-            fill="#858585"
-          />
-        
-          <rect
-            mask="url(#rect-mask)"
-            data-testid="lang-progress"
-            x="381.672"
-            y="0"
-            width="45.52349999999999"
-            height="8"
-            fill="#22b638"
-          />
-        
-          <rect
-            mask="url(#rect-mask)"
-            data-testid="lang-progress"
-            x="427.19550000000004"
-            y="0"
-            width="22.878"
-            height="8"
-            fill="#083fa1"
-          />
-        
-          <rect
-            mask="url(#rect-mask)"
-            data-testid="lang-progress"
-            x="450.0735"
-            y="0"
-            width="8.184"
-            height="8"
-            fill="#dea584"
-          />
-        
-          <rect
-            mask="url(#rect-mask)"
-            data-testid="lang-progress"
-            x="458.25750000000005"
-            y="0"
-            width="6.5565"
-            height="8"
-            fill="#858585"
-          />
-        
       
-    <g transform="translate(25, 25)">
-      <circle cx="5" cy="6" r="5" fill="#cb171e" />
-      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        YAML - 0 hrs 58 mins
-      </text>
-    </g>
-  
-    <g transform="translate(230, 25)">
-      <circle cx="5" cy="6" r="5" fill="#858585" />
-      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Bash - 0 hrs 48 mins
-      </text>
-    </g>
-  
-    <g transform="translate(25, 50)">
-      <circle cx="5" cy="6" r="5" fill="#858585" />
-      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Docker - 0 hrs 34 mins
-      </text>
-    </g>
-  
-    <g transform="translate(230, 50)">
-      <circle cx="5" cy="6" r="5" fill="#858585" />
-      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        JSX - 0 hrs 23 mins
-      </text>
-    </g>
-  
-    <g transform="translate(25, 75)">
-      <circle cx="5" cy="6" r="5" fill="#22b638" />
-      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Caddyfile - 0 hrs 19 mins
-      </text>
-    </g>
-  
-    <g transform="translate(230, 75)">
-      <circle cx="5" cy="6" r="5" fill="#083fa1" />
-      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Markdown - 0 hrs 10 mins
-      </text>
-    </g>
-  
-    <g transform="translate(25, 100)">
-      <circle cx="5" cy="6" r="5" fill="#dea584" />
-      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Rust - 0 hrs 4 mins
-      </text>
-    </g>
-  
-    <g transform="translate(230, 100)">
-      <circle cx="5" cy="6" r="5" fill="#858585" />
-      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Html - 0 hrs 3 mins
-      </text>
-    </g>
+    <text x="25" y="11" class="stat bold" fill="#fff">No coding activity this week</text>
   
     
     </svg>
