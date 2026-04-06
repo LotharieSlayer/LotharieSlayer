@@ -69,7 +69,7 @@
    <td align="center"><a href=https://developer.android.com/ title="Android"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:android.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
    <td align="center"><a href=https://en.wikipedia.org/wiki/Bourne-Again_shell title="Bash"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:gnubash.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
    <td align="center"><a href=https://visualstudio.microsoft.com/ title="Visual Studio"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:visualstudio.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
-   <td align="center"><a href=https://www.rust-lang.org/ title="Rust"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:rust.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
+   <td align="center"><a href=https://godotengine.org/ title="Godot"><img align="center" width="26px" src="https://api.iconify.design/cib:godot-engine.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
   </tr>
   <tr>
    <td align="center"><a href=https://flutter.dev/ title="Dart"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:dart.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
@@ -86,7 +86,7 @@
   </tr>
   <tr>
    <td align="center"><a href=https://fr.wikipedia.org/wiki/C%2B%2B title="C++"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:cplusplus.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
-   <td align="center"><a href=https://en.wikipedia.org/wiki/C_(programming_language) title="Clang"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:c.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
+   <td align="center"><a href=https://kotlinlang.org/ title="Kotlin"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:kotlin.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
    <td align="center"><a href=https://openjfx.io/ title="JavaFX"><img align="center" width="26px" src="https://api.iconify.design/iconoir:fx-tag.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
    <td align="center"><a href=https://reactjs.org title="React"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:react.svg?color=%23AF80FD&height=26" target="_blank" /></a> <a href=https://nextjs.org/ title="NextJS"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:nextdotjs.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
    <td align="center"><a href=https://www.postgresql.org/ title="SQL Databases (PostgreSQL, MySQL)"><img align="center" width="26px" src="https://api.iconify.design/carbon:sql.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
@@ -95,12 +95,12 @@
    <td align="center"><a href=https://microsoft.com/windows title="Windows"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:windows.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
    <td align="center"><a href=https://docker.com/ title="Docker"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:docker.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
    <td align="center"><a href=https://discord.com/developers/docs/intro title="Discord"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:discord.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
-   <td align="center"><a href=https://godotengine.org/ title="Godot"><img align="center" width="26px" src="https://api.iconify.design/cib:godot-engine.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
+   <td align="center"></td>
   </tr>
   <tr>
    <td align="center"><a href=https://www.php.net/ title="PHP"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:php.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
    <td align="center"><a href=https://www.python.org/ title="Python"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:python.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
-   <td align="center"></td>
+   <td align="center"><a href=https://en.wikipedia.org/wiki/High-Level_Shader_Language title="HLSL"><img align="center" width="26px" src="assets/vscode-icons--file-type-hlsl.svg" target="_blank" /></a></td>
    <td align="center"><a href=https://angular.dev/ title="Angular"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:angular.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
    <td align="center"><a href=https://redis.io/ title="Redis"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:redis.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
    <td align="center"><a href=https://obsproject.com/ title="OBS Studio"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:obsstudio.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
@@ -111,8 +111,8 @@
    <td align="center"></td>
   </tr>
   <tr>
-   <td align="center"><a href=https://kotlinlang.org/ title="Kotlin"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:kotlin.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
-   <td align="center"><a href=https://www.scala-lang.org/ title="Scala"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:scala.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
+   <td align="center"><a href=https://en.wikipedia.org/wiki/C_(programming_language) title="Clang"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:c.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
+   <td align="center"><a href=https://www.rust-lang.org/ title="Rust"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:rust.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
    <td align="center"></td>
    <td align="center"></td>
    <td align="center"></td>
