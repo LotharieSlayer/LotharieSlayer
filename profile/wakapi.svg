@@ -1,8 +1,8 @@
 
       <svg
         width="495"
-        height="140"
-        viewBox="0 0 495 140"
+        height="115"
+        viewBox="0 0 495 115"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
         role="img"
@@ -129,7 +129,7 @@
             data-testid="lang-progress"
             x="0"
             y="0"
-            width="282.72"
+            width="288.5325"
             height="8"
             fill="#083fa1"
           />
@@ -137,28 +137,18 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="282.72"
+            x="288.5325"
             y="0"
-            width="144.615"
+            width="174.28199999999998"
             height="8"
             fill="#A97BFF"
-          />
-        
-          <rect
-            mask="url(#rect-mask)"
-            data-testid="lang-progress"
-            x="427.33500000000004"
-            y="0"
-            width="35.6655"
-            height="8"
-            fill="#178600"
           />
         
       
     <g transform="translate(25, 25)">
       <circle cx="5" cy="6" r="5" fill="#083fa1" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Markdown - 0 hrs 49 mins
+        Markdown - 0 hrs 42 mins
       </text>
     </g>
   
@@ -166,13 +156,6 @@
       <circle cx="5" cy="6" r="5" fill="#A97BFF" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
         Kotlin - 0 hrs 25 mins
-      </text>
-    </g>
-  
-    <g transform="translate(25, 50)">
-      <circle cx="5" cy="6" r="5" fill="#178600" />
-      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        C# - 0 hrs 6 mins
       </text>
     </g>
   
