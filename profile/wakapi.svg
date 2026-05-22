@@ -1,8 +1,8 @@
 
       <svg
         width="495"
-        height="140"
-        viewBox="0 0 495 140"
+        height="90"
+        viewBox="0 0 495 90"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
         role="img"
@@ -124,57 +124,8 @@
       <rect x="25" y="0" width="440" height="8" fill="white" rx="5" />
       </mask>
       
-          <rect
-            mask="url(#rect-mask)"
-            data-testid="lang-progress"
-            x="0"
-            y="0"
-            width="231.29100000000003"
-            height="8"
-            fill="#9c4221"
-          />
-        
-          <rect
-            mask="url(#rect-mask)"
-            data-testid="lang-progress"
-            x="231.29100000000003"
-            y="0"
-            width="150.1485"
-            height="8"
-            fill="#dea584"
-          />
-        
-          <rect
-            mask="url(#rect-mask)"
-            data-testid="lang-progress"
-            x="381.43950000000007"
-            y="0"
-            width="82.77"
-            height="8"
-            fill="#3178c6"
-          />
-        
       
-    <g transform="translate(25, 25)">
-      <circle cx="5" cy="6" r="5" fill="#9c4221" />
-      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        TOML - 0 hrs 10 mins
-      </text>
-    </g>
-  
-    <g transform="translate(230, 25)">
-      <circle cx="5" cy="6" r="5" fill="#dea584" />
-      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Rust - 0 hrs 6 mins
-      </text>
-    </g>
-  
-    <g transform="translate(25, 50)">
-      <circle cx="5" cy="6" r="5" fill="#3178c6" />
-      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        TSX - 0 hrs 3 mins
-      </text>
-    </g>
+    <text x="25" y="11" class="stat bold" fill="#fff">No coding activity this week</text>
   
     
     </svg>
