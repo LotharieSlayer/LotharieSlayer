@@ -129,16 +129,33 @@
             data-testid="lang-progress"
             x="0"
             y="0"
-            width="465"
+            width="376.6035"
             height="8"
             fill="#858585"
+          />
+        
+          <rect
+            mask="url(#rect-mask)"
+            data-testid="lang-progress"
+            x="376.6035"
+            y="0"
+            width="88.39650000000002"
+            height="8"
+            fill="#178600"
           />
         
       
     <g transform="translate(25, 25)">
       <circle cx="5" cy="6" r="5" fill="#858585" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Shaderlab - 0 hrs 10 mins
+        Shaderlab - 0 hrs 19 mins
+      </text>
+    </g>
+  
+    <g transform="translate(230, 25)">
+      <circle cx="5" cy="6" r="5" fill="#178600" />
+      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
+        C# - 0 hrs 4 mins
       </text>
     </g>
   
