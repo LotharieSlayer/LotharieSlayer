@@ -129,33 +129,33 @@
             data-testid="lang-progress"
             x="0"
             y="0"
-            width="376.6035"
+            width="398.87699999999995"
             height="8"
-            fill="#858585"
+            fill="#178600"
           />
         
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="376.6035"
+            x="398.87699999999995"
             y="0"
-            width="88.39650000000002"
+            width="66.123"
             height="8"
-            fill="#178600"
+            fill="#858585"
           />
         
       
     <g transform="translate(25, 25)">
-      <circle cx="5" cy="6" r="5" fill="#858585" />
+      <circle cx="5" cy="6" r="5" fill="#178600" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Shaderlab - 0 hrs 19 mins
+        C# - 2 hrs 10 mins
       </text>
     </g>
   
     <g transform="translate(230, 25)">
-      <circle cx="5" cy="6" r="5" fill="#178600" />
+      <circle cx="5" cy="6" r="5" fill="#858585" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        C# - 0 hrs 4 mins
+        Shaderlab - 0 hrs 22 mins
       </text>
     </g>
   
