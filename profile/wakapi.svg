@@ -129,7 +129,7 @@
             data-testid="lang-progress"
             x="0"
             y="0"
-            width="393.4365"
+            width="391.902"
             height="8"
             fill="#858585"
           />
@@ -137,9 +137,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="393.4365"
+            x="391.902"
             y="0"
-            width="33.201"
+            width="21.855"
             height="8"
             fill="#858585"
           />
@@ -147,9 +147,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="426.63750000000005"
+            x="413.757"
             y="0"
-            width="15.0195"
+            width="18.320999999999998"
             height="8"
             fill="#858585"
           />
@@ -157,9 +157,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="441.65700000000004"
+            x="432.078"
             y="0"
-            width="7.811999999999999"
+            width="12.369000000000002"
             height="8"
             fill="#858585"
           />
@@ -167,19 +167,19 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="449.46900000000005"
+            x="444.447"
             y="0"
-            width="7.6725"
+            width="11.16"
             height="8"
-            fill="#858585"
+            fill="#178600"
           />
         
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="457.14150000000006"
+            x="455.607"
             y="0"
-            width="6.789"
+            width="8.649000000000001"
             height="8"
             fill="#0060ac"
           />
@@ -188,35 +188,35 @@
     <g transform="translate(25, 25)">
       <circle cx="5" cy="6" r="5" fill="#858585" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Shaderlab - 4 hrs 17 mins
+        Shaderlab - 3 hrs 21 mins
       </text>
     </g>
   
     <g transform="translate(230, 25)">
       <circle cx="5" cy="6" r="5" fill="#858585" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Hlsl - 0 hrs 22 mins
+        Hlsl - 0 hrs 11 mins
       </text>
     </g>
   
     <g transform="translate(25, 50)">
       <circle cx="5" cy="6" r="5" fill="#858585" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Gitignore file - 0 hrs 10 mins
+        Unityyaml - 0 hrs 9 mins
       </text>
     </g>
   
     <g transform="translate(230, 50)">
       <circle cx="5" cy="6" r="5" fill="#858585" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Unityyaml - 0 hrs 5 mins
+        Plain_text - 0 hrs 6 mins
       </text>
     </g>
   
     <g transform="translate(25, 75)">
-      <circle cx="5" cy="6" r="5" fill="#858585" />
+      <circle cx="5" cy="6" r="5" fill="#178600" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Plain_text - 0 hrs 5 mins
+        C# - 0 hrs 6 mins
       </text>
     </g>
   
