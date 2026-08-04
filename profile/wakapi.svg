@@ -129,7 +129,7 @@
             data-testid="lang-progress"
             x="0"
             y="0"
-            width="383.2065"
+            width="234.7785"
             height="8"
             fill="#858585"
           />
@@ -137,9 +137,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="383.2065"
+            x="234.7785"
             y="0"
-            width="46.68599999999999"
+            width="153.636"
             height="8"
             fill="#858585"
           />
@@ -147,49 +147,32 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="429.8925"
+            x="388.4145"
             y="0"
-            width="17.019000000000002"
+            width="71.982"
             height="8"
-            fill="#858585"
-          />
-        
-          <rect
-            mask="url(#rect-mask)"
-            data-testid="lang-progress"
-            x="446.9115"
-            y="0"
-            width="6.7425"
-            height="8"
-            fill="#858585"
+            fill="#083fa1"
           />
         
       
     <g transform="translate(25, 25)">
       <circle cx="5" cy="6" r="5" fill="#858585" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Javascript - 1 hrs 5 mins
+        Javascript - 0 hrs 41 mins
       </text>
     </g>
   
     <g transform="translate(230, 25)">
       <circle cx="5" cy="6" r="5" fill="#858585" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Gitignore file - 0 hrs 8 mins
+        Json - 0 hrs 27 mins
       </text>
     </g>
   
     <g transform="translate(25, 50)">
-      <circle cx="5" cy="6" r="5" fill="#858585" />
+      <circle cx="5" cy="6" r="5" fill="#083fa1" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Json - 0 hrs 3 mins
-      </text>
-    </g>
-  
-    <g transform="translate(230, 50)">
-      <circle cx="5" cy="6" r="5" fill="#858585" />
-      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Textmate - 0 hrs 1 mins
+        Markdown - 0 hrs 13 mins
       </text>
     </g>
   
