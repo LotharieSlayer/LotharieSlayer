@@ -129,7 +129,7 @@
             data-testid="lang-progress"
             x="0"
             y="0"
-            width="208.59900000000002"
+            width="181.35"
             height="8"
             fill="#3178c6"
           />
@@ -137,9 +137,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="208.59900000000002"
+            x="181.35"
             y="0"
-            width="115.64550000000001"
+            width="100.5795"
             height="8"
             fill="#858585"
           />
@@ -147,29 +147,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="324.2445"
+            x="281.92949999999996"
             y="0"
-            width="58.59"
-            height="8"
-            fill="#c6538c"
-          />
-        
-          <rect
-            mask="url(#rect-mask)"
-            data-testid="lang-progress"
-            x="382.83450000000005"
-            y="0"
-            width="30.2715"
-            height="8"
-            fill="#083fa1"
-          />
-        
-          <rect
-            mask="url(#rect-mask)"
-            data-testid="lang-progress"
-            x="413.10600000000005"
-            y="0"
-            width="24.8775"
+            width="79.05"
             height="8"
             fill="#cb171e"
           />
@@ -177,9 +157,29 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="437.98350000000005"
+            x="360.9795"
             y="0"
-            width="16.089000000000002"
+            width="50.964000000000006"
+            height="8"
+            fill="#c6538c"
+          />
+        
+          <rect
+            mask="url(#rect-mask)"
+            data-testid="lang-progress"
+            x="411.9435"
+            y="0"
+            width="26.505"
+            height="8"
+            fill="#083fa1"
+          />
+        
+          <rect
+            mask="url(#rect-mask)"
+            data-testid="lang-progress"
+            x="438.44849999999997"
+            y="0"
+            width="14.043"
             height="8"
             fill="#858585"
           />
@@ -187,9 +187,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="454.07250000000005"
+            x="452.4915"
             y="0"
-            width="8.509500000000001"
+            width="7.951499999999999"
             height="8"
             fill="#858585"
           />
@@ -197,9 +197,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="462.58200000000005"
+            x="460.443"
             y="0"
-            width="2.418"
+            width="3.6735"
             height="8"
             fill="#858585"
           />
@@ -220,23 +220,23 @@
     </g>
   
     <g transform="translate(25, 50)">
+      <circle cx="5" cy="6" r="5" fill="#cb171e" />
+      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
+        YAML - 0 hrs 53 mins
+      </text>
+    </g>
+  
+    <g transform="translate(230, 50)">
       <circle cx="5" cy="6" r="5" fill="#c6538c" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
         SCSS - 0 hrs 34 mins
       </text>
     </g>
   
-    <g transform="translate(230, 50)">
+    <g transform="translate(25, 75)">
       <circle cx="5" cy="6" r="5" fill="#083fa1" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
         Markdown - 0 hrs 18 mins
-      </text>
-    </g>
-  
-    <g transform="translate(25, 75)">
-      <circle cx="5" cy="6" r="5" fill="#cb171e" />
-      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        YAML - 0 hrs 15 mins
       </text>
     </g>
   
@@ -257,7 +257,7 @@
     <g transform="translate(230, 100)">
       <circle cx="5" cy="6" r="5" fill="#858585" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Unknown - 0 hrs 1 mins
+        Unknown - 0 hrs 2 mins
       </text>
     </g>
   
