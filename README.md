@@ -59,67 +59,67 @@
  </thead>
  <tbody>
   <tr>
-   <td align="center"><a title="Typescript" href=https://www.typescriptlang.org target="_blank" /><img align="center" width="26px" src="https://api.iconify.design/akar-icons:typescript-fill.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
-   <td align="center"><a href=https://docs.microsoft.com/dotnet/csharp/tour-of-csharp/ title="C#"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:csharp.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
-   <td align="center"><a href=https://unity.com/ title="Unity"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:unity.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
-   <td align="center"><a title="HTML5" href=https://developer.mozilla.org/fr/docs/Web/HTML><img align="center" width="26px" src="https://api.iconify.design/simple-icons:html5.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
-   <td align="center"><a href=https://www.mongodb.com title="MongoDB"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:mongodb.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
-   <td align="center"><a href=https://www.figma.com/ title="Figma"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:figma.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
-   <td align="center"><a href=https://www.ableton.com/ title="Ableton Live"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:abletonlive.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
-   <td align="center"><a href=https://developer.android.com/ title="Android"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:android.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
-   <td align="center"><a href=https://en.wikipedia.org/wiki/Bourne-Again_shell title="Bash"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:gnubash.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
-   <td align="center"><a href=https://visualstudio.microsoft.com/ title="Visual Studio"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:visualstudio.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
-   <td align="center"><a href=https://godotengine.org/ title="Godot"><img align="center" width="26px" src="https://api.iconify.design/cib:godot-engine.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
+   <td align="center"><a title="Typescript" href=https://www.typescriptlang.org target="_blank" /><img align="center" width="26px" src="assets/akar-icons-typescript-fill.svg" target="_blank" /></a></td>
+   <td align="center"><a href=https://docs.microsoft.com/dotnet/csharp/tour-of-csharp/ title="C#"><img align="center" width="26px" src="assets/simple-icons-csharp.svg" target="_blank" /></a></td>
+   <td align="center"><a href=https://unity.com/ title="Unity"><img align="center" width="26px" src="assets/simple-icons-unity.svg" target="_blank" /></a></td>
+   <td align="center"><a title="HTML5" href=https://developer.mozilla.org/fr/docs/Web/HTML><img align="center" width="26px" src="assets/simple-icons-html5.svg" target="_blank" /></a></td>
+   <td align="center"><a href=https://www.mongodb.com title="MongoDB"><img align="center" width="26px" src="assets/simple-icons-mongodb.svg" target="_blank" /></a></td>
+   <td align="center"><a href=https://www.figma.com/ title="Figma"><img align="center" width="26px" src="assets/simple-icons-figma.svg" target="_blank" /></a></td>
+   <td align="center"><a href=https://www.ableton.com/ title="Ableton Live"><img align="center" width="26px" src="assets/simple-icons-abletonlive.svg" target="_blank" /></a></td>
+   <td align="center"><a href=https://developer.android.com/ title="Android"><img align="center" width="26px" src="assets/simple-icons-android.svg" target="_blank" /></a></td>
+   <td align="center"><a href=https://en.wikipedia.org/wiki/Bourne-Again_shell title="Bash"><img align="center" width="26px" src="assets/simple-icons-gnubash.svg" target="_blank" /></a></td>
+   <td align="center"><a href=https://visualstudio.microsoft.com/ title="Visual Studio"><img align="center" width="26px" src="assets/simple-icons-visualstudio.svg" target="_blank" /></a></td>
+   <td align="center"><a href=https://godotengine.org/ title="Godot"><img align="center" width="26px" src="assets/cib-godot-engine.svg" target="_blank" /></a></td>
   </tr>
   <tr>
-   <td align="center"><a href=https://flutter.dev/ title="Dart"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:dart.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
-   <td align="center"><a href=https://www.java.com/ title="Java"><img align="center" width="26px" src="https://api.iconify.design/cib:java.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
-   <td align="center"><a href=https://flutter.dev/ title="Flutter"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:flutter.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
-   <td align="center"><a title="CSS3" href=https://developer.mozilla.org/fr/docs/Web/CSS><img align="center" width="26px" src="https://api.iconify.design/simple-icons:css3.svg?color=%23AF80FD&height=26" target="_blank" /></a> <a title="SASS" href=https://sass-lang.com target="_blank" /><img align="center" width="26px" src="https://api.iconify.design/simple-icons:sass.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
-   <td align="center"><a href=https://isar.dev/fr/ title="Isar"><img align="center" width="26px" src="https://api.iconify.design/fluent:water-24-filled.svg?color=%23AF80FD&height=26"" target="_blank" /></a></td>
-   <td align="center"><a href=https://www.adobe.com/products/aftereffects.html title="Adobe After Effects"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:adobeaftereffects.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
-   <td align="center"><a href=https://www.adobe.com/products/illustrator.html title="Adobe Illustrator"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:adobeillustrator.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
-   <td align="center"><a href=https://www.apple.com/fr/ios/ title="iOS"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:ios.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
-   <td align="center"><a href=https://git-scm.com/ title="Git"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:git.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
-   <td align="center"><a href=https://code.visualstudio.com/ title="Visual Studio Code"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:visualstudiocode.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
-   <td align="center"><a href=https://www.autodesk.fr/products/maya/overview title="Maya"><img align="center" width="26px" src="https://api.iconify.design/devicon-plain:maya.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
+   <td align="center"><a href=https://flutter.dev/ title="Dart"><img align="center" width="26px" src="assets/simple-icons-dart.svg" target="_blank" /></a></td>
+   <td align="center"><a href=https://www.java.com/ title="Java"><img align="center" width="26px" src="assets/cib-java.svg" target="_blank" /></a></td>
+   <td align="center"><a href=https://flutter.dev/ title="Flutter"><img align="center" width="26px" src="assets/simple-icons-flutter.svg" target="_blank" /></a></td>
+   <td align="center"><a title="CSS3" href=https://developer.mozilla.org/fr/docs/Web/CSS><img align="center" width="26px" src="assets/simple-icons-css3.svg" target="_blank" /></a> <a title="SASS" href=https://sass-lang.com target="_blank" /><img align="center" width="26px" src="assets/simple-icons-sass.svg" target="_blank" /></a></td>
+   <td align="center"><a href=https://isar.dev/fr/ title="Isar"><img align="center" width="26px" src="assets/fluent-water-24-filled.svg" target="_blank" /></a></td>
+   <td align="center"><a href=https://www.adobe.com/products/aftereffects.html title="Adobe After Effects"><img align="center" width="26px" src="assets/simple-icons-adobeaftereffects.svg" target="_blank" /></a></td>
+   <td align="center"><a href=https://www.adobe.com/products/illustrator.html title="Adobe Illustrator"><img align="center" width="26px" src="assets/simple-icons-adobeillustrator.svg" target="_blank" /></a></td>
+   <td align="center"><a href=https://www.apple.com/fr/ios/ title="iOS"><img align="center" width="26px" src="assets/simple-icons-ios.svg" target="_blank" /></a></td>
+   <td align="center"><a href=https://git-scm.com/ title="Git"><img align="center" width="26px" src="assets/simple-icons-git.svg" target="_blank" /></a></td>
+   <td align="center"><a href=https://code.visualstudio.com/ title="Visual Studio Code"><img align="center" width="26px" src="assets/simple-icons-visualstudiocode.svg" target="_blank" /></a></td>
+   <td align="center"><a href=https://www.autodesk.fr/products/maya/overview title="Maya"><img align="center" width="26px" src="assets/devicon-plain-maya.svg" target="_blank" /></a></td>
   </tr>
   <tr>
-   <td align="center"><a href=https://fr.wikipedia.org/wiki/C%2B%2B title="C++"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:cplusplus.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
-   <td align="center"><a href=https://kotlinlang.org/ title="Kotlin"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:kotlin.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
-   <td align="center"><a href=https://openjfx.io/ title="JavaFX"><img align="center" width="26px" src="https://api.iconify.design/iconoir:fx-tag.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
-   <td align="center"><a href=https://reactjs.org title="React"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:react.svg?color=%23AF80FD&height=26" target="_blank" /></a> <a href=https://nextjs.org/ title="NextJS"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:nextdotjs.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
-   <td align="center"><a href=https://www.postgresql.org/ title="SQL Databases (PostgreSQL, MySQL)"><img align="center" width="26px" src="https://api.iconify.design/carbon:sql.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
-   <td align="center"><a href=https://www.adobe.com/products/premiere.html title="Adobe Premiere Pro"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:adobepremierepro.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
-   <td align="center"><a href=https://www.adobe.com/products/photoshop.html title="Adobe Photoshop"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:adobephotoshop.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
-   <td align="center"><a href=https://microsoft.com/windows title="Windows"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:windows.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
-   <td align="center"><a href=https://docker.com/ title="Docker"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:docker.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
-   <td align="center"><a href=https://discord.com/developers/docs/intro title="Discord"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:discord.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
+   <td align="center"><a href=https://fr.wikipedia.org/wiki/C%2B%2B title="C++"><img align="center" width="26px" src="assets/simple-icons-cplusplus.svg" target="_blank" /></a></td>
+   <td align="center"><a href=https://kotlinlang.org/ title="Kotlin"><img align="center" width="26px" src="assets/simple-icons-kotlin.svg" target="_blank" /></a></td>
+   <td align="center"><a href=https://openjfx.io/ title="JavaFX"><img align="center" width="26px" src="assets/iconoir-fx-tag.svg" target="_blank" /></a></td>
+   <td align="center"><a href=https://reactjs.org title="React"><img align="center" width="26px" src="assets/simple-icons-react.svg" target="_blank" /></a> <a href=https://nextjs.org/ title="NextJS"><img align="center" width="26px" src="assets/simple-icons-nextdotjs.svg" target="_blank" /></a></td>
+   <td align="center"><a href=https://www.postgresql.org/ title="SQL Databases (PostgreSQL, MySQL)"><img align="center" width="26px" src="assets/carbon-sql.svg" target="_blank" /></a></td>
+   <td align="center"><a href=https://www.adobe.com/products/premiere.html title="Adobe Premiere Pro"><img align="center" width="26px" src="assets/simple-icons-adobepremierepro.svg" target="_blank" /></a></td>
+   <td align="center"><a href=https://www.adobe.com/products/photoshop.html title="Adobe Photoshop"><img align="center" width="26px" src="assets/simple-icons-adobephotoshop.svg" target="_blank" /></a></td>
+   <td align="center"><a href=https://microsoft.com/windows title="Windows"><img align="center" width="26px" src="assets/simple-icons-windows.svg" target="_blank" /></a></td>
+   <td align="center"><a href=https://docker.com/ title="Docker"><img align="center" width="26px" src="assets/simple-icons-docker.svg" target="_blank" /></a></td>
+   <td align="center"><a href=https://discord.com/developers/docs/intro title="Discord"><img align="center" width="26px" src="assets/simple-icons-discord.svg" target="_blank" /></a></td>
    <td align="center"></td>
   </tr>
   <tr>
-   <td align="center"><a href=https://www.php.net/ title="PHP"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:php.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
-   <td align="center"><a href=https://www.python.org/ title="Python"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:python.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
+   <td align="center"><a href=https://www.php.net/ title="PHP"><img align="center" width="26px" src="assets/simple-icons-php.svg" target="_blank" /></a></td>
+   <td align="center"><a href=https://www.python.org/ title="Python"><img align="center" width="26px" src="assets/simple-icons-python.svg" target="_blank" /></a></td>
    <td align="center"><a href=https://en.wikipedia.org/wiki/High-Level_Shader_Language title="HLSL"><img align="center" width="26px" src="assets/vscode-icons--file-type-hlsl.svg" target="_blank" /></a></td>
-   <td align="center"><a href=https://angular.dev/ title="Angular"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:angular.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
-   <td align="center"><a href=https://redis.io/ title="Redis"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:redis.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
-   <td align="center"><a href=https://obsproject.com/ title="OBS Studio"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:obsstudio.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
-   <td align="center"><a href=https://www.blender.org/ title="Blender"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:blender.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
-   <td align="center"><a href=https://www.apple.com/fr/macos/ title="MacOS"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:macos.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
-   <td align="center"><a href=https://www.npmjs.com/ title="NPM"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:npm.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
-   <td align="center"><a href=https://www.twitch.tv/ title="Twitch"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:twitch.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
+   <td align="center"><a href=https://angular.dev/ title="Angular"><img align="center" width="26px" src="assets/simple-icons-angular.svg" target="_blank" /></a></td>
+   <td align="center"><a href=https://redis.io/ title="Redis"><img align="center" width="26px" src="assets/simple-icons-redis.svg" target="_blank" /></a></td>
+   <td align="center"><a href=https://obsproject.com/ title="OBS Studio"><img align="center" width="26px" src="assets/simple-icons-obsstudio.svg" target="_blank" /></a></td>
+   <td align="center"><a href=https://www.blender.org/ title="Blender"><img align="center" width="26px" src="assets/simple-icons-blender.svg" target="_blank" /></a></td>
+   <td align="center"><a href=https://www.apple.com/fr/macos/ title="MacOS"><img align="center" width="26px" src="assets/simple-icons-macos.svg" target="_blank" /></a></td>
+   <td align="center"><a href=https://www.npmjs.com/ title="NPM"><img align="center" width="26px" src="assets/simple-icons-npm.svg" target="_blank" /></a></td>
+   <td align="center"><a href=https://www.twitch.tv/ title="Twitch"><img align="center" width="26px" src="assets/simple-icons-twitch.svg" target="_blank" /></a></td>
    <td align="center"></td>
   </tr>
   <tr>
-   <td align="center"><a href=https://en.wikipedia.org/wiki/C_(programming_language) title="Clang"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:c.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
-   <td align="center"><a href=https://www.rust-lang.org/ title="Rust"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:rust.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
+   <td align="center"><a href=https://en.wikipedia.org/wiki/C_(programming_language) title="Clang"><img align="center" width="26px" src="assets/simple-icons-c.svg" target="_blank" /></a></td>
+   <td align="center"><a href=https://www.rust-lang.org/ title="Rust"><img align="center" width="26px" src="assets/simple-icons-rust.svg" target="_blank" /></a></td>
    <td align="center"></td>
    <td align="center"></td>
    <td align="center"></td>
    <td align="center"></td>
    <td align="center"></td>
-   <td align="center"><a href=https://www.kernel.org/ title="Linux"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:linux.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
-   <td align="center"><a href=https://www.gnu.org/software/make/ title="GNU Make"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:gnu.svg?color=%23AF80FD&height=26" target="_blank" /></a></td>
+   <td align="center"><a href=https://www.kernel.org/ title="Linux"><img align="center" width="26px" src="assets/simple-icons-linux.svg" target="_blank" /></a></td>
+   <td align="center"><a href=https://www.gnu.org/software/make/ title="GNU Make"><img align="center" width="26px" src="assets/simple-icons-gnu.svg" target="_blank" /></a></td>
    <td align="center"></td>
    <td align="center"></td>
   </tr>
