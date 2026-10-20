@@ -3,26 +3,49 @@ on:
   schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
+
+permissions:
+  contents: write
+
 jobs:
   build_readme_cards:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
 
+      # The default GITHUB_TOKEN is no longer accepted for user-level stats by the
+      # GitHub API ("Resource not accessible by integration"), so the card is
+      # fetched from the public github-readme-stats instance instead: no token.
       - name: Generate stats card
-        uses: readme-tools/github-readme-stats-action@v1
-        with:
-          card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&count_private=true&hide_border=true&icon_color=fff&bg_color=AF80FDe6&title_color=fff&text_color=fff&border_radius=20
-          path: profile/stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-      - name: Generate stats card
-        uses: readme-tools/github-readme-stats-action@v1
+        run: |
+          set -euo pipefail
+          url="https://github-readme-stats.vercel.app/api?username=${GITHUB_REPOSITORY_OWNER}&show_icons=true&hide_border=true&icon_color=fff&bg_color=AF80FDe6&title_color=fff&text_color=fff&border_radius=20"
+          curl -fsSL "$url" -o profile/stats.svg.new
+          if grep -q "Something went wrong" profile/stats.svg.new; then
+            echo "::warning::stats card came back as an error card, keeping the previous one"
+            rm -f profile/stats.svg.new
+          else
+            mv profile/stats.svg.new profile/stats.svg
+          fi
+
+      - name: Generate wakatime card
+        run: |
+          cp profile/wakapi.svg profile/wakapi.svg.bak
+      - uses: readme-tools/github-readme-stats-action@v1
         with:
           card: wakatime
           options: username=LOTHARIE&api_domain=wakapi.alexisl.fr&bg_color=AF80FDe6&title_color=fff&icon_color=2F855A&text_color=fff&custom_title=Weekly%20Development%20Breakdown&layout=compact&border_radius=20&range=last_7_days&hide_border=true
           path: profile/wakapi.svg
           token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Keep previous wakatime card if it errored
+        if: always()
+        run: |
+          if grep -q "Something went wrong" profile/wakapi.svg; then
+            echo "::warning::wakatime card came back as an error card, keeping the previous one"
+            mv profile/wakapi.svg.bak profile/wakapi.svg
+          else
+            rm -f profile/wakapi.svg.bak
+          fi
 
       - name: Commit cards
         env:
