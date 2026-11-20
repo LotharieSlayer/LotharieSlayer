@@ -129,7 +129,7 @@
             data-testid="lang-progress"
             x="0"
             y="0"
-            width="381.7185"
+            width="386.601"
             height="8"
             fill="#00B4AB"
           />
@@ -137,9 +137,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="381.7185"
+            x="386.601"
             y="0"
-            width="30.7365"
+            width="28.923"
             height="8"
             fill="#858585"
           />
@@ -147,9 +147,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="412.455"
+            x="415.524"
             y="0"
-            width="23.5755"
+            width="22.227000000000004"
             height="8"
             fill="#858585"
           />
@@ -157,9 +157,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="436.03049999999996"
+            x="437.751"
             y="0"
-            width="17.67"
+            width="16.647000000000002"
             height="8"
             fill="#cb171e"
           />
@@ -167,9 +167,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="453.7005"
+            x="454.39799999999997"
             y="0"
-            width="8.37"
+            width="7.8585"
             height="8"
             fill="#083fa1"
           />
@@ -177,9 +177,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="462.0705"
+            x="462.25649999999996"
             y="0"
-            width="1.3020000000000003"
+            width="1.209"
             height="8"
             fill="#C1F12E"
           />
@@ -188,7 +188,7 @@
     <g transform="translate(25, 25)">
       <circle cx="5" cy="6" r="5" fill="#00B4AB" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Dart - 4 hrs 54 mins
+        Dart - 5 hrs 16 mins
       </text>
     </g>
   
